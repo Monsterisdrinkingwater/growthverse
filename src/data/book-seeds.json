@@ -1,0 +1,4902 @@
+[
+  {
+    "id": "si-01",
+    "title": "被讨厌的勇气",
+    "author": "岸见一郎 / 古贺史健",
+    "isbn": "9787111529156",
+    "description": "以对话体解读阿德勒心理学，教你放下他人的期待，获得真正的自由。",
+    "categories": [
+      "心理学",
+      "自我提升",
+      "哲学"
+    ],
+    "themes": [
+      "课题分离",
+      "共同体感觉",
+      "目的论"
+    ],
+    "era": "2010s",
+    "publishYear": 2013,
+    "rating": 4.6,
+    "pageCount": 256,
+    "language": "zh",
+    "growthDimensions": [
+      "self_awareness",
+      "emotional_intelligence",
+      "systems_thinking"
+    ],
+    "oneLineRecommendation": "读完这本书，你会放下不属于自己的重担。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-02",
+      "si-04",
+      "si-07",
+      "si-08"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "被讨厌的勇气 书评",
+        "课题分离 读后感",
+        "阿德勒心理学 推荐"
+      ],
+      "bilibili": [
+        "被讨厌的勇气 读书笔记",
+        "岸见一郎 阿德勒"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-02",
+    "title": "原子习惯",
+    "author": "James Clear",
+    "isbn": "9780735211292",
+    "description": "微小改变的惊人力量，用科学方法建立好习惯、戒掉坏习惯。",
+    "categories": [
+      "自我提升",
+      "心理学"
+    ],
+    "themes": [
+      "习惯养成",
+      "身份认同",
+      "环境设计",
+      "1%改进"
+    ],
+    "era": "2010s",
+    "publishYear": 2018,
+    "rating": 4.7,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "growth_mindset",
+      "resilience"
+    ],
+    "oneLineRecommendation": "每天进步1%，一年后你会强大37倍。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-04",
+      "si-07",
+      "si-08"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "原子习惯 书评",
+        "习惯养成 方法",
+        "Atomic Habits 读后感"
+      ],
+      "bilibili": [
+        "原子习惯 读书笔记",
+        "James Clear 习惯"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-03",
+    "title": "高效能人士的七个习惯",
+    "author": "Stephen R. Covey",
+    "isbn": "9787500649038",
+    "description": "从依赖到独立再到互赖，一套完整的个人效能提升体系。",
+    "categories": [
+      "自我提升",
+      "商业"
+    ],
+    "themes": [
+      "积极主动",
+      "以终为始",
+      "双赢思维"
+    ],
+    "era": "1980s",
+    "publishYear": 1989,
+    "rating": 4.5,
+    "pageCount": 384,
+    "language": "en",
+    "growthDimensions": [
+      "leadership",
+      "self_awareness",
+      "social_skills"
+    ],
+    "oneLineRecommendation": "改变习惯之前，先改变看待自己的方式。",
+    "relatedSameAuthor": [
+      "si-14"
+    ],
+    "relatedSameEra": [
+      "si-19",
+      "ps-05",
+      "ps-10",
+      "ps-17"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "七个习惯 书评",
+        "高效能人士 读后感"
+      ],
+      "bilibili": [
+        "七个习惯 读书笔记",
+        "Stephen Covey 管理"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-04",
+    "title": "刻意练习",
+    "author": "Anders Ericsson / Robert Pool",
+    "isbn": "9787111551188",
+    "description": "天才不是天生的，而是通过正确的方法持续练习而成。",
+    "categories": [
+      "自我提升",
+      "心理学"
+    ],
+    "themes": [
+      "刻意练习",
+      "心理表征",
+      "走出舒适区"
+    ],
+    "era": "2010s",
+    "publishYear": 2016,
+    "rating": 4.4,
+    "pageCount": 304,
+    "language": "en",
+    "growthDimensions": [
+      "growth_mindset",
+      "self_awareness",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "告别\"天赋论\"，用科学方法精进任何技能。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-07",
+      "si-08"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "刻意练习 书评",
+        "如何高效学习",
+        "刻意练习 读后感"
+      ],
+      "bilibili": [
+        "刻意练习 读书笔记",
+        "天才的秘密"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-05",
+    "title": "终身成长",
+    "author": "Carol S. Dweck",
+    "isbn": "9787210096784",
+    "description": "固定型思维与成长型思维的区别，决定了你的人生高度。",
+    "categories": [
+      "自我提升",
+      "心理学"
+    ],
+    "themes": [
+      "成长型思维",
+      "固定型思维",
+      "自我超越"
+    ],
+    "era": "2000s",
+    "publishYear": 2006,
+    "rating": 4.5,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "growth_mindset",
+      "self_awareness",
+      "resilience"
+    ],
+    "oneLineRecommendation": "相信能力可以成长，是一切改变的起点。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-14",
+      "si-17",
+      "ps-02",
+      "ps-06"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "终身成长 书评",
+        "成长型思维 读后感"
+      ],
+      "bilibili": [
+        "终身成长 读书笔记",
+        "Carol Dweck 思维"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-06",
+    "title": "少有人走的路",
+    "author": "M. Scott Peck",
+    "isbn": "9787807421641",
+    "description": "一条通往心智成熟的旅程，自律是解决人生问题的主要工具。",
+    "categories": [
+      "自我提升",
+      "心理学"
+    ],
+    "themes": [
+      "自律",
+      "延迟满足",
+      "心灵成长"
+    ],
+    "era": "1970s",
+    "publishYear": 1978,
+    "rating": 4.5,
+    "pageCount": 288,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "resilience",
+      "mindfulness"
+    ],
+    "oneLineRecommendation": "心智成熟，是一场勇敢者的旅程。",
+    "relatedSameAuthor": [
+      "ps-11",
+      "ps-17",
+      "ps-18"
+    ],
+    "relatedSameEra": [
+      "ps-11",
+      "bz-11",
+      "tk-12",
+      "tk-15"
+    ],
+    "relatedSameTheme": [
+      "ps-11",
+      "ps-17"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "少有人走的路 书评",
+        "心智成熟 读后感"
+      ],
+      "bilibili": [
+        "少有人走的路 读书笔记",
+        "M Scott Peck"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-07",
+    "title": "自控力",
+    "author": "Kelly McGonigal",
+    "isbn": "9787514205039",
+    "description": "斯坦福大学最受欢迎的心理学课程，科学地理解意志力。",
+    "categories": [
+      "自我提升",
+      "心理学"
+    ],
+    "themes": [
+      "意志力",
+      "自我觉察",
+      "冲动控制"
+    ],
+    "era": "2010s",
+    "publishYear": 2012,
+    "rating": 4.3,
+    "pageCount": 264,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "emotional_intelligence",
+      "resilience"
+    ],
+    "oneLineRecommendation": "了解大脑的运作方式，才能真正掌控自己。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-08"
+    ],
+    "relatedSameTheme": [
+      "si-12"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "自控力 书评",
+        "意志力 科学训练"
+      ],
+      "bilibili": [
+        "自控力 读书笔记",
+        "斯坦福心理学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-08",
+    "title": "断舍离",
+    "author": "山下英子",
+    "isbn": "9787539958668",
+    "description": "通过整理物品来整理内心，断绝不需要的东西，舍弃多余的废物。",
+    "categories": [
+      "自我提升",
+      "生活"
+    ],
+    "themes": [
+      "极简主义",
+      "断舍离",
+      "内心整理"
+    ],
+    "era": "2010s",
+    "publishYear": 2013,
+    "rating": 4,
+    "pageCount": 208,
+    "language": "zh",
+    "growthDimensions": [
+      "self_awareness",
+      "mindfulness",
+      "wellbeing"
+    ],
+    "oneLineRecommendation": "放下不需要的，才能看见真正重要的。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "断舍离 书评",
+        "极简生活 推荐",
+        "断舍离 实践"
+      ],
+      "bilibili": [
+        "断舍离 读书笔记",
+        "极简主义生活"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-09",
+    "title": "深度工作",
+    "author": "Cal Newport",
+    "isbn": "9787210090317",
+    "description": "在碎片化时代，专注力才是真正的超能力。",
+    "categories": [
+      "自我提升",
+      "商业"
+    ],
+    "themes": [
+      "深度工作",
+      "专注力",
+      "碎片化"
+    ],
+    "era": "2010s",
+    "publishYear": 2016,
+    "rating": 4.4,
+    "pageCount": 288,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "critical_thinking",
+      "creativity"
+    ],
+    "oneLineRecommendation": "能深度工作的人，将拥有不可替代的竞争力。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "深度工作 书评",
+        "专注力 提升方法"
+      ],
+      "bilibili": [
+        "深度工作 读书笔记",
+        "Cal Newport"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-10",
+    "title": "如何阅读一本书",
+    "author": "Mortimer J. Adler / Charles Van Doren",
+    "isbn": "9787100040945",
+    "description": "阅读的艺术与方法论，从基础阅读到主题阅读的四个层次。",
+    "categories": [
+      "自我提升",
+      "教育"
+    ],
+    "themes": [
+      "阅读方法",
+      "分析阅读",
+      "主题阅读"
+    ],
+    "era": "1940s",
+    "publishYear": 1940,
+    "rating": 4.5,
+    "pageCount": 376,
+    "language": "en",
+    "growthDimensions": [
+      "critical_thinking",
+      "self_awareness",
+      "growth_mindset"
+    ],
+    "oneLineRecommendation": "会读书的人，一本书能顶十本书。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "ps-13",
+      "bz-12",
+      "tk-09",
+      "lt-01"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "如何阅读一本书 书评",
+        "阅读方法 推荐"
+      ],
+      "bilibili": [
+        "如何阅读一本书 读书笔记",
+        "阅读的艺术"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-11",
+    "title": "当下的力量",
+    "author": "Eckhart Tolle",
+    "isbn": "9787508630779",
+    "description": "活在当下是通往内心平静与力量的唯一途径。",
+    "categories": [
+      "自我提升",
+      "心理学",
+      "哲学"
+    ],
+    "themes": [
+      "当下",
+      "临在",
+      "小我",
+      "内在平静"
+    ],
+    "era": "1990s",
+    "publishYear": 1997,
+    "rating": 4.5,
+    "pageCount": 240,
+    "language": "en",
+    "growthDimensions": [
+      "mindfulness",
+      "self_awareness",
+      "wellbeing"
+    ],
+    "oneLineRecommendation": "你所拥有的一切，只有当下。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-13",
+      "ps-18",
+      "bz-06",
+      "bz-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "当下的力量 书评",
+        "活在当下 读后感"
+      ],
+      "bilibili": [
+        "当下的力量 读书笔记",
+        "Eckhart Tolle"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-12",
+    "title": "认知觉醒",
+    "author": "周岭",
+    "isbn": "9787115543424",
+    "description": "开启自我改变的原动力，用元认知重新认识自己。",
+    "categories": [
+      "自我提升",
+      "心理学"
+    ],
+    "themes": [
+      "元认知",
+      "自我觉察",
+      "大脑运作"
+    ],
+    "era": "2020s",
+    "publishYear": 2020,
+    "rating": 4.3,
+    "pageCount": 280,
+    "language": "zh",
+    "growthDimensions": [
+      "self_awareness",
+      "growth_mindset",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "认识自己的大脑，是改变人生的第一步。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [],
+    "relatedSameTheme": [
+      "si-07"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "认知觉醒 书评",
+        "元认知 读后感",
+        "周岭 推荐"
+      ],
+      "bilibili": [
+        "认知觉醒 读书笔记",
+        "元认知是什么"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-13",
+    "title": "心流：最优体验的心理学",
+    "author": "Mihaly Csikszentmihalyi",
+    "isbn": "9787213070013",
+    "description": "当全神贯注于当下，你会进入忘我的心流状态。",
+    "categories": [
+      "自我提升",
+      "心理学"
+    ],
+    "themes": [
+      "心流",
+      "最优体验",
+      "专注",
+      "内在动机"
+    ],
+    "era": "1990s",
+    "publishYear": 1990,
+    "rating": 4.5,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "mindfulness",
+      "creativity"
+    ],
+    "oneLineRecommendation": "幸福不是运气，而是全身心投入的能力。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-11",
+      "ps-18",
+      "bz-06",
+      "bz-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "心流 书评",
+        "最优体验 读后感"
+      ],
+      "bilibili": [
+        "心流 读书笔记",
+        "Csikszentmihalyi"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-14",
+    "title": "高效能人士的第八个习惯",
+    "author": "Stephen R. Covey",
+    "isbn": "9787500663065",
+    "description": "从效能到卓越，找到你自己的声音并激励他人也找到他们的声音。",
+    "categories": [
+      "自我提升",
+      "商业"
+    ],
+    "themes": [
+      "领导力",
+      "使命感",
+      "卓越"
+    ],
+    "era": "2000s",
+    "publishYear": 2004,
+    "rating": 4.2,
+    "pageCount": 368,
+    "language": "en",
+    "growthDimensions": [
+      "leadership",
+      "self_awareness",
+      "social_skills"
+    ],
+    "oneLineRecommendation": "找到你的声音，也帮助他人找到他们的声音。",
+    "relatedSameAuthor": [
+      "si-03"
+    ],
+    "relatedSameEra": [
+      "si-05",
+      "si-17",
+      "ps-02",
+      "ps-06"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "第八个习惯 书评",
+        "Stephen Covey 领导力"
+      ],
+      "bilibili": [
+        "第八个习惯 读书笔记",
+        "领导力提升"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-15",
+    "title": "刻意沟通",
+    "author": "Dale Carnegie",
+    "isbn": "9787201127583",
+    "description": "卡内基经典沟通训练，让你在任何场合都能自信表达。",
+    "categories": [
+      "自我提升",
+      "社交"
+    ],
+    "themes": [
+      "沟通技巧",
+      "公众演讲",
+      "人际关系"
+    ],
+    "era": "1930s",
+    "publishYear": 1936,
+    "rating": 4.4,
+    "pageCount": 288,
+    "language": "en",
+    "growthDimensions": [
+      "social_skills",
+      "emotional_intelligence",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "沟通的本质不是技巧，而是真诚地对他人感兴趣。",
+    "relatedSameAuthor": [
+      "si-16"
+    ],
+    "relatedSameEra": [
+      "si-16",
+      "ps-03",
+      "ps-12",
+      "ps-20"
+    ],
+    "relatedSameTheme": [
+      "si-16"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "卡内基沟通 书评",
+        "人际沟通 推荐"
+      ],
+      "bilibili": [
+        "卡内基 沟通技巧",
+        "Dale Carnegie"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-16",
+    "title": "人性的弱点",
+    "author": "Dale Carnegie",
+    "isbn": "9787201077529",
+    "description": "人际关系学的经典之作，教你赢得朋友和影响他人的永恒原则。",
+    "categories": [
+      "自我提升",
+      "社交"
+    ],
+    "themes": [
+      "人际关系",
+      "影响力",
+      "同理心"
+    ],
+    "era": "1930s",
+    "publishYear": 1936,
+    "rating": 4.5,
+    "pageCount": 304,
+    "language": "en",
+    "growthDimensions": [
+      "social_skills",
+      "emotional_intelligence",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "理解人性的弱点，才能建立真正的连接。",
+    "relatedSameAuthor": [
+      "si-15"
+    ],
+    "relatedSameEra": [
+      "si-15",
+      "ps-03",
+      "ps-12",
+      "ps-20"
+    ],
+    "relatedSameTheme": [
+      "si-15",
+      "ps-10"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "人性的弱点 书评",
+        "人际关系 经典",
+        "卡内基 读后感"
+      ],
+      "bilibili": [
+        "人性的弱点 读书笔记",
+        "Dale Carnegie 人际关系"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-17",
+    "title": "精力管理",
+    "author": "Jim Loehr / Tony Schwartz",
+    "isbn": "9787515805535",
+    "description": "管理精力而非时间，才是高效表现的关键。",
+    "categories": [
+      "自我提升",
+      "健康"
+    ],
+    "themes": [
+      "精力管理",
+      "体能",
+      "情绪管理"
+    ],
+    "era": "2000s",
+    "publishYear": 2003,
+    "rating": 4.2,
+    "pageCount": 240,
+    "language": "en",
+    "growthDimensions": [
+      "wellbeing",
+      "self_awareness",
+      "resilience"
+    ],
+    "oneLineRecommendation": "时间是有限的，但精力可以被训练和管理。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "ps-02",
+      "ps-06"
+    ],
+    "relatedSameTheme": [
+      "ps-19"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "精力管理 书评",
+        "如何管理精力"
+      ],
+      "bilibili": [
+        "精力管理 读书笔记",
+        "高效能秘诀"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-18",
+    "title": "习惯的力量",
+    "author": "Charles Duhigg",
+    "isbn": "9787508644615",
+    "description": "揭示习惯运作的科学原理，提示改变习惯的关键杠杆。",
+    "categories": [
+      "自我提升",
+      "心理学"
+    ],
+    "themes": [
+      "习惯回路",
+      "暗示",
+      "奖赏",
+      "杠杆点"
+    ],
+    "era": "2010s",
+    "publishYear": 2012,
+    "rating": 4.3,
+    "pageCount": 304,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "growth_mindset",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "理解习惯的回路，你就掌握了改变的钥匙。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "习惯的力量 书评",
+        "习惯回路 读后感"
+      ],
+      "bilibili": [
+        "习惯的力量 读书笔记",
+        "Charles Duhigg"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-19",
+    "title": "思考的艺术",
+    "author": "Vincent Ruggiero",
+    "isbn": "9787515820538",
+    "description": "培养批判性思维和创造性思维的系统指南。",
+    "categories": [
+      "自我提升",
+      "教育"
+    ],
+    "themes": [
+      "批判性思维",
+      "创造性思维",
+      "问题解决"
+    ],
+    "era": "1980s",
+    "publishYear": 1986,
+    "rating": 4.1,
+    "pageCount": 280,
+    "language": "en",
+    "growthDimensions": [
+      "critical_thinking",
+      "creativity",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "会思考的人，看到的 world 完全不同。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-03",
+      "ps-05",
+      "ps-10",
+      "ps-17"
+    ],
+    "relatedSameTheme": [
+      "ps-08"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "思考的艺术 书评",
+        "批判性思维 入门"
+      ],
+      "bilibili": [
+        "思考的艺术 读书笔记",
+        "思维训练"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "si-20",
+    "title": "学习之道",
+    "author": "Barbara Oakley",
+    "isbn": "9787111543909",
+    "description": "用神经科学揭示学习的底层逻辑，让学习变得更高效。",
+    "categories": [
+      "自我提升",
+      "教育"
+    ],
+    "themes": [
+      "学习方法",
+      "神经科学",
+      "专注与发散"
+    ],
+    "era": "2010s",
+    "publishYear": 2014,
+    "rating": 4.3,
+    "pageCount": 272,
+    "language": "en",
+    "growthDimensions": [
+      "growth_mindset",
+      "self_awareness",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "了解大脑如何学习，才能真正学会。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "学习之道 书评",
+        "高效学习 方法",
+        "Barbara Oakley"
+      ],
+      "bilibili": [
+        "学习之道 读书笔记",
+        "学习科学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-01",
+    "title": "思考，快与慢",
+    "author": "Daniel Kahneman",
+    "isbn": "9787508633558",
+    "description": "诺贝尔奖得主揭示人类思维的两个系统：快思考与慢思考。",
+    "categories": [
+      "心理学",
+      "经济"
+    ],
+    "themes": [
+      "系统1",
+      "系统2",
+      "认知偏差",
+      "决策"
+    ],
+    "era": "2010s",
+    "publishYear": 2011,
+    "rating": 4.6,
+    "pageCount": 500,
+    "language": "en",
+    "growthDimensions": [
+      "critical_thinking",
+      "self_awareness",
+      "scientific_thinking"
+    ],
+    "oneLineRecommendation": "了解大脑的捷径，才能避免思维的陷阱。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "思考快与慢 书评",
+        "认知偏差 读后感",
+        "Kahneman 推荐"
+      ],
+      "bilibili": [
+        "思考快与慢 读书笔记",
+        "行为经济学 入门"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-02",
+    "title": "非暴力沟通",
+    "author": "Marshall B. Rosenberg",
+    "isbn": "9787508038704",
+    "description": "通过观察、感受、需要和请求四步法，实现真正的共情沟通。",
+    "categories": [
+      "心理学",
+      "社交"
+    ],
+    "themes": [
+      "非暴力沟通",
+      "共情",
+      "需要",
+      "倾听"
+    ],
+    "era": "2000s",
+    "publishYear": 2003,
+    "rating": 4.6,
+    "pageCount": 240,
+    "language": "en",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "social_skills",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "每一句愤怒背后，都有一个未被满足的需要。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-06"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "非暴力沟通 书评",
+        "共情沟通 读后感",
+        "NVC 推荐"
+      ],
+      "bilibili": [
+        "非暴力沟通 读书笔记",
+        "沟通方法"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-03",
+    "title": "自卑与超越",
+    "author": "Alfred Adler",
+    "isbn": "9787515820323",
+    "description": "个体心理学创始人的经典之作，自卑感是人类进步的源泉。",
+    "categories": [
+      "心理学",
+      "哲学"
+    ],
+    "themes": [
+      "自卑感",
+      "社会兴趣",
+      "生活风格",
+      "超越"
+    ],
+    "era": "1930s",
+    "publishYear": 1931,
+    "rating": 4.4,
+    "pageCount": 256,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "emotional_intelligence",
+      "resilience"
+    ],
+    "oneLineRecommendation": "自卑不是缺陷，而是追求卓越的动力。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-15",
+      "si-16",
+      "ps-12",
+      "ps-20"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "自卑与超越 书评",
+        "阿德勒 读后感"
+      ],
+      "bilibili": [
+        "自卑与超越 读书笔记",
+        "Alfred Adler 心理学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-04",
+    "title": "乌合之众",
+    "author": "Gustave Le Bon",
+    "isbn": "9787100029384",
+    "description": "群体心理学的奠基之作，揭示个体在群体中如何丧失理性。",
+    "categories": [
+      "心理学",
+      "社会"
+    ],
+    "themes": [
+      "群体心理",
+      "从众",
+      "集体无意识"
+    ],
+    "era": "1890s",
+    "publishYear": 1895,
+    "rating": 4.2,
+    "pageCount": 208,
+    "language": "fr",
+    "growthDimensions": [
+      "critical_thinking",
+      "self_awareness",
+      "social_skills"
+    ],
+    "oneLineRecommendation": "身处群体之中，更要保持独立思考。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [],
+    "relatedSameTheme": [
+      "ps-05"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "乌合之众 书评",
+        "群体心理学 读后感"
+      ],
+      "bilibili": [
+        "乌合之众 读书笔记",
+        "Le Bon 群体心理"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-05",
+    "title": "社会心理学",
+    "author": "David G. Myers",
+    "isbn": "9787115330093",
+    "description": "最经典的社会心理学教材，理解人与社会的互动关系。",
+    "categories": [
+      "心理学",
+      "教育"
+    ],
+    "themes": [
+      "社会认知",
+      "从众",
+      "偏见",
+      "群体动力学"
+    ],
+    "era": "1980s",
+    "publishYear": 1983,
+    "rating": 4.6,
+    "pageCount": 600,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "social_skills",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "理解社会如何塑造我们的思维和行为。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-03",
+      "si-19",
+      "ps-10",
+      "ps-17"
+    ],
+    "relatedSameTheme": [
+      "ps-04",
+      "lt-20"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "社会心理学 书评",
+        "Myers 心理学 推荐"
+      ],
+      "bilibili": [
+        "社会心理学 读书笔记",
+        "心理学入门"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-06",
+    "title": "亲密关系",
+    "author": "Roland S. Miller",
+    "isbn": "9787515816937",
+    "description": "科学解析亲密关系的建立、维持与修复。",
+    "categories": [
+      "心理学",
+      "社交"
+    ],
+    "themes": [
+      "亲密关系",
+      "依恋理论",
+      "沟通",
+      "冲突"
+    ],
+    "era": "2000s",
+    "publishYear": 2005,
+    "rating": 4.4,
+    "pageCount": 400,
+    "language": "en",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "social_skills",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "好的亲密关系，是两个人共同成长。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [
+      "ps-20"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "亲密关系 书评",
+        "依恋理论 读后感"
+      ],
+      "bilibili": [
+        "亲密关系 读书笔记",
+        "爱情心理学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-07",
+    "title": "发展心理学",
+    "author": "Robert S. Feldman",
+    "isbn": "9787515821320",
+    "description": "从婴儿到老年，全面了解人类心理发展的规律。",
+    "categories": [
+      "心理学",
+      "教育"
+    ],
+    "themes": [
+      "心理发展",
+      "认知发展",
+      "毕生发展"
+    ],
+    "era": "2000s",
+    "publishYear": 2005,
+    "rating": 4.3,
+    "pageCount": 500,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "emotional_intelligence",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "了解人一生的心理发展，更好地理解自己和他人。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "发展心理学 书评",
+        "心理学 教材推荐"
+      ],
+      "bilibili": [
+        "发展心理学 读书笔记",
+        "心理学课程"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-08",
+    "title": "认知心理学",
+    "author": "Robert J. Sternberg",
+    "isbn": "9787515821009",
+    "description": "深入理解人类认知过程：注意、记忆、思维与语言。",
+    "categories": [
+      "心理学",
+      "科学"
+    ],
+    "themes": [
+      "认知过程",
+      "记忆",
+      "注意力",
+      "问题解决"
+    ],
+    "era": "2000s",
+    "publishYear": 2005,
+    "rating": 4.3,
+    "pageCount": 450,
+    "language": "en",
+    "growthDimensions": [
+      "critical_thinking",
+      "scientific_thinking",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "了解大脑如何处理信息，是认识自己的第一步。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [
+      "si-19"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "认知心理学 书评",
+        "心理学 入门"
+      ],
+      "bilibili": [
+        "认知心理学 读书笔记",
+        "大脑如何工作"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-09",
+    "title": "积极心理学",
+    "author": "Martin E.P. Seligman",
+    "isbn": "9787515805221",
+    "description": "积极心理学之父告诉你，幸福的科学公式。",
+    "categories": [
+      "心理学",
+      "自我提升"
+    ],
+    "themes": [
+      "积极情绪",
+      "优势",
+      "意义",
+      "PERMA模型"
+    ],
+    "era": "2000s",
+    "publishYear": 2002,
+    "rating": 4.4,
+    "pageCount": 288,
+    "language": "en",
+    "growthDimensions": [
+      "wellbeing",
+      "self_awareness",
+      "emotional_intelligence"
+    ],
+    "oneLineRecommendation": "幸福不是没有痛苦，而是拥有超越痛苦的力量。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "积极心理学 书评",
+        "Seligman 幸福",
+        "PERMA 读后感"
+      ],
+      "bilibili": [
+        "积极心理学 读书笔记",
+        "幸福的科学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-10",
+    "title": "影响力",
+    "author": "Robert B. Cialdini",
+    "isbn": "9787547030141",
+    "description": "说服他人的六大心理学原理，理解为什么我们会说\"是\"。",
+    "categories": [
+      "心理学",
+      "商业"
+    ],
+    "themes": [
+      "影响力",
+      "说服",
+      "互惠",
+      "社会认同"
+    ],
+    "era": "1980s",
+    "publishYear": 1984,
+    "rating": 4.5,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "social_skills",
+      "critical_thinking",
+      "emotional_intelligence"
+    ],
+    "oneLineRecommendation": "了解影响力的秘密，既能说服他人也能保护自己。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-03",
+      "si-19",
+      "ps-05",
+      "ps-17"
+    ],
+    "relatedSameTheme": [
+      "si-16"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "影响力 书评",
+        "说服心理学 读后感",
+        "Cialdini 推荐"
+      ],
+      "bilibili": [
+        "影响力 读书笔记",
+        "说服的心理学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-11",
+    "title": "少有人走的路：心智成熟的旅程",
+    "author": "M. Scott Peck",
+    "isbn": "9787807421641",
+    "description": "一条少有人走的路，引领你走向心智的成熟。",
+    "categories": [
+      "心理学",
+      "自我提升"
+    ],
+    "themes": [
+      "自律",
+      "爱",
+      "成长",
+      "心灵"
+    ],
+    "era": "1970s",
+    "publishYear": 1978,
+    "rating": 4.5,
+    "pageCount": 288,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "resilience",
+      "mindfulness"
+    ],
+    "oneLineRecommendation": "人生苦难是常态，接受它便能超越它。",
+    "relatedSameAuthor": [
+      "si-06",
+      "ps-17",
+      "ps-18"
+    ],
+    "relatedSameEra": [
+      "si-06",
+      "bz-11",
+      "tk-12",
+      "tk-15"
+    ],
+    "relatedSameTheme": [
+      "si-06",
+      "ps-14",
+      "ps-18",
+      "bz-05"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "少有人走的路 书评",
+        "心智成熟 读后感"
+      ],
+      "bilibili": [
+        "少有人走的路 读书笔记"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-12",
+    "title": "心理学与生活",
+    "author": "Richard J. Gerrig / Philip G. Zimbardo",
+    "isbn": "9787115311023",
+    "description": "最经典的心理学入门教材，将心理学融入日常生活。",
+    "categories": [
+      "心理学",
+      "教育"
+    ],
+    "themes": [
+      "心理学导论",
+      "行为",
+      "认知",
+      "发展"
+    ],
+    "era": "1930s",
+    "publishYear": 1937,
+    "rating": 4.6,
+    "pageCount": 700,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "emotional_intelligence",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "了解心理学，就是了解你自己。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-15",
+      "si-16",
+      "ps-03",
+      "ps-20"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "心理学与生活 书评",
+        "心理学入门 推荐"
+      ],
+      "bilibili": [
+        "心理学与生活 读书笔记",
+        "心理学入门课程"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-13",
+    "title": "逃避自由",
+    "author": "Erich Fromm",
+    "isbn": "9787515816586",
+    "description": "自由带来了孤独，人们因此逃避自由投向权威。",
+    "categories": [
+      "心理学",
+      "哲学",
+      "社会"
+    ],
+    "themes": [
+      "自由",
+      "孤独",
+      "权威",
+      "社会心理"
+    ],
+    "era": "1940s",
+    "publishYear": 1941,
+    "rating": 4.5,
+    "pageCount": 256,
+    "language": "en",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "self_awareness",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "真正的自由不是逃避，而是勇敢地面对孤独。",
+    "relatedSameAuthor": [
+      "ps-14"
+    ],
+    "relatedSameEra": [
+      "si-10",
+      "bz-12",
+      "tk-09",
+      "lt-01"
+    ],
+    "relatedSameTheme": [
+      "ps-20",
+      "lt-01",
+      "lt-09"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "逃避自由 书评",
+        "弗洛姆 读后感",
+        "自由与孤独"
+      ],
+      "bilibili": [
+        "逃避自由 读书笔记",
+        "Erich Fromm 哲学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-14",
+    "title": "爱的艺术",
+    "author": "Erich Fromm",
+    "isbn": "9787515816593",
+    "description": "爱不是一种感情而是一种能力，需要学习和练习。",
+    "categories": [
+      "心理学",
+      "哲学"
+    ],
+    "themes": [
+      "爱",
+      "爱的能力",
+      "成熟的爱",
+      "给予"
+    ],
+    "era": "1950s",
+    "publishYear": 1956,
+    "rating": 4.6,
+    "pageCount": 160,
+    "language": "en",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "self_awareness",
+      "social_skills"
+    ],
+    "oneLineRecommendation": "爱不只是遇见对的人，更是拥有爱的能力。",
+    "relatedSameAuthor": [
+      "ps-13"
+    ],
+    "relatedSameEra": [
+      "lt-19"
+    ],
+    "relatedSameTheme": [
+      "ps-11",
+      "ps-18",
+      "lt-18"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "爱的艺术 书评",
+        "弗洛姆 爱",
+        "什么是真正的爱"
+      ],
+      "bilibili": [
+        "爱的艺术 读书笔记",
+        "Erich Fromm 爱的能力"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-15",
+    "title": "幸福的陷阱",
+    "author": "Russ Harris",
+    "isbn": "9787515823041",
+    "description": "基于ACT疗法，教你不与负面情绪对抗，而是接纳它们。",
+    "categories": [
+      "心理学",
+      "自我提升"
+    ],
+    "themes": [
+      "接纳承诺",
+      "正念",
+      "价值导向",
+      "认知解离"
+    ],
+    "era": "2000s",
+    "publishYear": 2007,
+    "rating": 4.2,
+    "pageCount": 240,
+    "language": "en",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "mindfulness",
+      "wellbeing"
+    ],
+    "oneLineRecommendation": "越控制情绪越痛苦，接纳才是出路。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "幸福的陷阱 书评",
+        "ACT疗法 读后感",
+        "接纳情绪"
+      ],
+      "bilibili": [
+        "幸福的陷阱 读书笔记",
+        "ACT心理治疗"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-16",
+    "title": "被侮辱与被损害的",
+    "author": "Fyodor Dostoevsky",
+    "isbn": "9787020095070",
+    "description": "陀氏早期力作，深刻描绘被压迫者的苦难与尊严。",
+    "categories": [
+      "心理学",
+      "文学"
+    ],
+    "themes": [
+      "苦难",
+      "尊严",
+      "人性",
+      "救赎"
+    ],
+    "era": "1860s",
+    "publishYear": 1861,
+    "rating": 4.3,
+    "pageCount": 480,
+    "language": "ru",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "philosophical_thinking",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "在苦难中看见人性的光辉。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "bz-10",
+      "lt-18"
+    ],
+    "relatedSameTheme": [
+      "lt-03",
+      "lt-04",
+      "lt-18",
+      "lt-19"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "被侮辱与被损害的 书评",
+        "陀思妥耶夫斯基 推荐"
+      ],
+      "bilibili": [
+        "被侮辱与被损害的 读书笔记",
+        "陀氏文学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-17",
+    "title": "少有人走的路2：心灵地图",
+    "author": "M. Scott Peck",
+    "isbn": "9787807426523",
+    "description": "继续心智成熟的旅程，探讨更深层的心灵问题。",
+    "categories": [
+      "心理学",
+      "自我提升"
+    ],
+    "themes": [
+      "心灵成长",
+      "潜意识",
+      "自我探索"
+    ],
+    "era": "1980s",
+    "publishYear": 1983,
+    "rating": 4.2,
+    "pageCount": 256,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "resilience",
+      "mindfulness"
+    ],
+    "oneLineRecommendation": "心灵地图帮你找到内心的方向。",
+    "relatedSameAuthor": [
+      "si-06",
+      "ps-11",
+      "ps-18"
+    ],
+    "relatedSameEra": [
+      "si-03",
+      "si-19",
+      "ps-05",
+      "ps-10"
+    ],
+    "relatedSameTheme": [
+      "si-06"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "心灵地图 书评",
+        "M Scott Peck 系列"
+      ],
+      "bilibili": [
+        "心灵地图 读书笔记"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-18",
+    "title": "少有人走的路3：心灵鸡汤",
+    "author": "M. Scott Peck",
+    "isbn": "9787807426530",
+    "description": "用真诚的故事探讨自律、爱与成长的主题。",
+    "categories": [
+      "心理学",
+      "自我提升"
+    ],
+    "themes": [
+      "真诚",
+      "成长",
+      "爱",
+      "勇气"
+    ],
+    "era": "1990s",
+    "publishYear": 1993,
+    "rating": 4,
+    "pageCount": 240,
+    "language": "en",
+    "growthDimensions": [
+      "self_awareness",
+      "emotional_intelligence",
+      "resilience"
+    ],
+    "oneLineRecommendation": "真实的故事比任何道理都更有力量。",
+    "relatedSameAuthor": [
+      "si-06",
+      "ps-11",
+      "ps-17"
+    ],
+    "relatedSameEra": [
+      "si-11",
+      "si-13",
+      "bz-06",
+      "bz-07"
+    ],
+    "relatedSameTheme": [
+      "ps-11",
+      "ps-14",
+      "bz-05",
+      "lt-04"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "心灵鸡汤 Peck 书评",
+        "M Scott Peck 系列"
+      ],
+      "bilibili": [
+        "少有人走的路3 读书笔记"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-19",
+    "title": "情绪急救",
+    "author": "Guy Winch",
+    "isbn": "9787515816029",
+    "description": "心理创伤也需要急救，五种常见心理伤害的实用疗法。",
+    "categories": [
+      "心理学",
+      "自我提升"
+    ],
+    "themes": [
+      "情绪管理",
+      "心理创伤",
+      "自我疗愈"
+    ],
+    "era": "2010s",
+    "publishYear": 2013,
+    "rating": 4.2,
+    "pageCount": 240,
+    "language": "en",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "wellbeing",
+      "resilience"
+    ],
+    "oneLineRecommendation": "身体的伤要看医生，心里的伤也需要被认真对待。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [
+      "si-17"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "情绪急救 书评",
+        "心理创伤 自愈",
+        "情绪管理 推荐"
+      ],
+      "bilibili": [
+        "情绪急救 读书笔记",
+        "心理健康"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ps-20",
+    "title": "心是孤独的猎手",
+    "author": "Carson McCullers",
+    "isbn": "9787513304276",
+    "description": "一群孤独的人在彼此身上寻找理解，却终究无法抵达。",
+    "categories": [
+      "心理学",
+      "文学"
+    ],
+    "themes": [
+      "孤独",
+      "理解",
+      "沟通",
+      "内心"
+    ],
+    "era": "1930s",
+    "publishYear": 1936,
+    "rating": 4.3,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "self_awareness",
+      "imagination"
+    ],
+    "oneLineRecommendation": "每个人的心里，都有一个无法被听见的声音。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-15",
+      "si-16",
+      "ps-03",
+      "ps-12"
+    ],
+    "relatedSameTheme": [
+      "ps-06",
+      "ps-13",
+      "lt-09"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "心是孤独的猎手 书评",
+        "孤独 小说推荐"
+      ],
+      "bilibili": [
+        "心是孤独的猎手 读书笔记",
+        "McCullers"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-01",
+    "title": "穷查理宝典",
+    "author": "Peter Kaufman (编)",
+    "isbn": "9787208097506",
+    "description": "查理·芒格的智慧箴言录，跨学科思维模型的集大成者。",
+    "categories": [
+      "商业",
+      "投资",
+      "自我提升"
+    ],
+    "themes": [
+      "多元思维模型",
+      "逆向思考",
+      "能力圈",
+      "检查清单"
+    ],
+    "era": "2000s",
+    "publishYear": 2005,
+    "rating": 4.7,
+    "pageCount": 520,
+    "language": "en",
+    "growthDimensions": [
+      "critical_thinking",
+      "financial_literacy",
+      "systems_thinking"
+    ],
+    "oneLineRecommendation": "学会像芒格一样跨学科思考。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "穷查理宝典 书评",
+        "查理芒格 智慧",
+        "投资经典推荐"
+      ],
+      "bilibili": [
+        "穷查理宝典 读书笔记",
+        "查理芒格 思维模型"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-02",
+    "title": "原则",
+    "author": "Ray Dalio",
+    "isbn": "9787508681443",
+    "description": "桥水基金创始人分享的生活和工作原则。",
+    "categories": [
+      "商业",
+      "自我提升"
+    ],
+    "themes": [
+      "原则",
+      "极度透明",
+      "系统化决策"
+    ],
+    "era": "2010s",
+    "publishYear": 2017,
+    "rating": 4.5,
+    "pageCount": 560,
+    "language": "en",
+    "growthDimensions": [
+      "leadership",
+      "systems_thinking",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "用原则代替情绪做决策，是成熟的标志。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "原则 书评",
+        "Ray Dalio 读后感",
+        "桥水基金 推荐"
+      ],
+      "bilibili": [
+        "原则 读书笔记",
+        "Ray Dalio 生活原则"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-03",
+    "title": "从0到1",
+    "author": "Peter Thiel / Blake Masters",
+    "isbn": "9787508649719",
+    "description": "硅谷传奇创业者的商业思考，创新不是复制而是创造新事物。",
+    "categories": [
+      "商业",
+      "科技"
+    ],
+    "themes": [
+      "创新",
+      "垄断",
+      "逆向思维",
+      "从0到1"
+    ],
+    "era": "2010s",
+    "publishYear": 2014,
+    "rating": 4.4,
+    "pageCount": 224,
+    "language": "en",
+    "growthDimensions": [
+      "creativity",
+      "critical_thinking",
+      "leadership"
+    ],
+    "oneLineRecommendation": "真正的创新不是做得更好，而是做得不同。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "从0到1 书评",
+        "Peter Thiel 创业",
+        "创新思维 推荐"
+      ],
+      "bilibili": [
+        "从0到1 读书笔记",
+        "Peter Thiel 创业课"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-04",
+    "title": "黑天鹅",
+    "author": "Nassim Nicholas Taleb",
+    "isbn": "9787508633558",
+    "description": "不可预测的重大事件如何塑造了我们的世界。",
+    "categories": [
+      "商业",
+      "哲学",
+      "心理学"
+    ],
+    "themes": [
+      "黑天鹅",
+      "不确定性",
+      "反脆弱",
+      "随机性"
+    ],
+    "era": "2000s",
+    "publishYear": 2007,
+    "rating": 4.5,
+    "pageCount": 400,
+    "language": "en",
+    "growthDimensions": [
+      "critical_thinking",
+      "systems_thinking",
+      "scientific_thinking"
+    ],
+    "oneLineRecommendation": "承认无知，才能在不确定的世界中生存。",
+    "relatedSameAuthor": [
+      "bz-05"
+    ],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [
+      "bz-05"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "黑天鹅 书评",
+        "Taleb 不确定性",
+        "随机性 推荐"
+      ],
+      "bilibili": [
+        "黑天鹅 读书笔记",
+        "Nassim Taleb 反脆弱"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-05",
+    "title": "反脆弱",
+    "author": "Nassim Nicholas Taleb",
+    "isbn": "9787508644615",
+    "description": "从不确定性中获益的能力，比坚韧更强大的生存策略。",
+    "categories": [
+      "商业",
+      "哲学",
+      "心理学"
+    ],
+    "themes": [
+      "反脆弱",
+      "不确定性",
+      "压力",
+      "成长"
+    ],
+    "era": "2010s",
+    "publishYear": 2012,
+    "rating": 4.6,
+    "pageCount": 500,
+    "language": "en",
+    "growthDimensions": [
+      "resilience",
+      "critical_thinking",
+      "systems_thinking"
+    ],
+    "oneLineRecommendation": "风会熄灭蜡烛，却能使火越烧越旺。",
+    "relatedSameAuthor": [
+      "bz-04"
+    ],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [
+      "ps-11",
+      "ps-18",
+      "bz-04",
+      "lt-20"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "反脆弱 书评",
+        "Taleb 反脆弱",
+        "从不确定中获益"
+      ],
+      "bilibili": [
+        "反脆弱 读书笔记",
+        "Nassim Taleb"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-06",
+    "title": "创新者的窘境",
+    "author": "Clayton M. Christensen",
+    "isbn": "9787508636955",
+    "description": "为什么优秀的企业会因为做对了所有事而失败。",
+    "categories": [
+      "商业",
+      "科技"
+    ],
+    "themes": [
+      "颠覆性创新",
+      "技术变革",
+      "企业战略"
+    ],
+    "era": "1990s",
+    "publishYear": 1997,
+    "rating": 4.4,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "creativity",
+      "systems_thinking",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "有时候，做对了一切反而会失败。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-11",
+      "si-13",
+      "ps-18",
+      "bz-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "创新者的窘境 书评",
+        "颠覆性创新 读后感"
+      ],
+      "bilibili": [
+        "创新者的窘境 读书笔记",
+        "Christensen 创新"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-07",
+    "title": "基业长青",
+    "author": "Jim Collins / Jerry I. Porras",
+    "isbn": "9787508631219",
+    "description": "研究为什么有些公司能基业长青，而大多数不能。",
+    "categories": [
+      "商业"
+    ],
+    "themes": [
+      "愿景",
+      "核心价值观",
+      "持续创新"
+    ],
+    "era": "1990s",
+    "publishYear": 1994,
+    "rating": 4.3,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "leadership",
+      "systems_thinking",
+      "creativity"
+    ],
+    "oneLineRecommendation": "伟大的公司不是靠利润驱动，而是靠使命驱动。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-11",
+      "si-13",
+      "ps-18",
+      "bz-06"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "基业长青 书评",
+        "Jim Collins 管理经典"
+      ],
+      "bilibili": [
+        "基业长青 读书笔记",
+        "企业管理"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-08",
+    "title": "精益创业",
+    "author": "Eric Ries",
+    "isbn": "9787508633114",
+    "description": "用最小可行产品快速验证商业假设，避免浪费资源。",
+    "categories": [
+      "商业",
+      "科技"
+    ],
+    "themes": [
+      "MVP",
+      "快速迭代",
+      "验证学习"
+    ],
+    "era": "2010s",
+    "publishYear": 2011,
+    "rating": 4.3,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "creativity",
+      "systems_thinking",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "不要闭门造车，去验证你的假设。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "精益创业 书评",
+        "MVP 方法论",
+        "创业方法 推荐"
+      ],
+      "bilibili": [
+        "精益创业 读书笔记",
+        "Eric Ries 创业"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-09",
+    "title": "国富论",
+    "author": "Adam Smith",
+    "isbn": "9787100011969",
+    "description": "现代经济学的奠基之作，\"看不见的手\"引导市场运行。",
+    "categories": [
+      "商业",
+      "经济",
+      "哲学"
+    ],
+    "themes": [
+      "自由市场",
+      "分工",
+      "看不见的手"
+    ],
+    "era": "1770s",
+    "publishYear": 1776,
+    "rating": 4.4,
+    "pageCount": 800,
+    "language": "en",
+    "growthDimensions": [
+      "systems_thinking",
+      "critical_thinking",
+      "financial_literacy"
+    ],
+    "oneLineRecommendation": "理解市场经济的底层逻辑，从这本书开始。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "国富论 书评",
+        "经济学经典",
+        "Adam Smith 推荐"
+      ],
+      "bilibili": [
+        "国富论 读书笔记",
+        "经济学入门"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-10",
+    "title": "资本论",
+    "author": "Karl Marx",
+    "isbn": "9787010049038",
+    "description": "剖析资本主义生产方式的经典著作。",
+    "categories": [
+      "经济",
+      "哲学",
+      "社会"
+    ],
+    "themes": [
+      "资本",
+      "剩余价值",
+      "阶级",
+      "异化"
+    ],
+    "era": "1860s",
+    "publishYear": 1867,
+    "rating": 4.3,
+    "pageCount": 1000,
+    "language": "de",
+    "growthDimensions": [
+      "critical_thinking",
+      "systems_thinking",
+      "philosophical_thinking"
+    ],
+    "oneLineRecommendation": "理解资本的运行逻辑，才能理解现代社会的底层规则。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "ps-16",
+      "lt-18"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "资本论 书评",
+        "马克思 经济学",
+        "政治经济学 推荐"
+      ],
+      "bilibili": [
+        "资本论 读书笔记",
+        "马克思 资本论"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-11",
+    "title": "漫步华尔街",
+    "author": "Burton G. Malkiel",
+    "isbn": "9787515816937",
+    "description": "个人投资者的经典指南，指数基金投资的理论基础。",
+    "categories": [
+      "商业",
+      "投资"
+    ],
+    "themes": [
+      "有效市场",
+      "指数投资",
+      "风险管理"
+    ],
+    "era": "1970s",
+    "publishYear": 1973,
+    "rating": 4.4,
+    "pageCount": 400,
+    "language": "en",
+    "growthDimensions": [
+      "financial_literacy",
+      "critical_thinking",
+      "systems_thinking"
+    ],
+    "oneLineRecommendation": "最好的投资策略，可能比你想象的简单得多。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-06",
+      "ps-11",
+      "tk-12",
+      "tk-15"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "漫步华尔街 书评",
+        "指数基金 投资入门"
+      ],
+      "bilibili": [
+        "漫步华尔街 读书笔记",
+        "个人投资指南"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-12",
+    "title": "聪明的投资者",
+    "author": "Benjamin Graham",
+    "isbn": "9787213043826",
+    "description": "价值投资之父的投资哲学，巴菲特的投资圣经。",
+    "categories": [
+      "商业",
+      "投资"
+    ],
+    "themes": [
+      "价值投资",
+      "安全边际",
+      "市场先生"
+    ],
+    "era": "1940s",
+    "publishYear": 1949,
+    "rating": 4.6,
+    "pageCount": 480,
+    "language": "en",
+    "growthDimensions": [
+      "financial_literacy",
+      "critical_thinking",
+      "resilience"
+    ],
+    "oneLineRecommendation": "投资不是比谁更聪明，而是比谁更有纪律。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-10",
+      "ps-13",
+      "tk-09",
+      "lt-01"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "聪明的投资者 书评",
+        "价值投资 入门",
+        "Benjamin Graham"
+      ],
+      "bilibili": [
+        "聪明的投资者 读书笔记",
+        "巴菲特推荐书单"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-13",
+    "title": "贫穷的本质",
+    "author": "Abhijit V. Banerjee / Esther Duflo",
+    "isbn": "9787508636061",
+    "description": "诺贝尔经济学奖得主揭示贫穷的真正原因。",
+    "categories": [
+      "经济",
+      "社会"
+    ],
+    "themes": [
+      "贫穷",
+      "发展经济学",
+      "社会公平"
+    ],
+    "era": "2010s",
+    "publishYear": 2011,
+    "rating": 4.4,
+    "pageCount": 288,
+    "language": "en",
+    "growthDimensions": [
+      "critical_thinking",
+      "systems_thinking",
+      "emotional_intelligence"
+    ],
+    "oneLineRecommendation": "贫穷不是因为懒惰，而是因为缺少正确的支持。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "贫穷的本质 书评",
+        "诺贝尔经济学奖 推荐"
+      ],
+      "bilibili": [
+        "贫穷的本质 读书笔记",
+        "发展经济学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-14",
+    "title": "21世纪资本论",
+    "author": "Thomas Piketty",
+    "isbn": "9787508648149",
+    "description": "揭示资本回报率长期高于经济增长率导致贫富分化加剧。",
+    "categories": [
+      "经济",
+      "社会"
+    ],
+    "themes": [
+      "贫富分化",
+      "资本回报",
+      "社会不平等"
+    ],
+    "era": "2010s",
+    "publishYear": 2013,
+    "rating": 4.3,
+    "pageCount": 700,
+    "language": "fr",
+    "growthDimensions": [
+      "critical_thinking",
+      "systems_thinking",
+      "financial_literacy"
+    ],
+    "oneLineRecommendation": "数据告诉你，贫富差距不是偶然而是必然——除非改变规则。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "21世纪资本论 书评",
+        "贫富分化 推荐",
+        "Piketty"
+      ],
+      "bilibili": [
+        "21世纪资本论 读书笔记",
+        "经济学 不平等"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "bz-15",
+    "title": "激荡三十年",
+    "author": "吴晓波",
+    "isbn": "9787508637532",
+    "description": "记录中国企业在改革开放三十年中的崛起与沉浮。",
+    "categories": [
+      "商业",
+      "历史"
+    ],
+    "themes": [
+      "改革开放",
+      "中国企业",
+      "商业史"
+    ],
+    "era": "2000s",
+    "publishYear": 2007,
+    "rating": 4.3,
+    "pageCount": 600,
+    "language": "zh",
+    "growthDimensions": [
+      "systems_thinking",
+      "creativity",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "读懂中国商业的过去，才能看清未来的方向。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "激荡三十年 书评",
+        "中国商业史 推荐",
+        "吴晓波 推荐"
+      ],
+      "bilibili": [
+        "激荡三十年 读书笔记",
+        "中国企业史"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-01",
+    "title": "三体",
+    "author": "刘慈欣",
+    "isbn": "9787536692930",
+    "description": "地球文明与三体文明的宇宙级对决，中国科幻巅峰之作。",
+    "categories": [
+      "科幻",
+      "科学"
+    ],
+    "themes": [
+      "黑暗森林",
+      "宇宙社会学",
+      "文明冲突",
+      "降维打击"
+    ],
+    "era": "2000s",
+    "publishYear": 2008,
+    "rating": 4.8,
+    "pageCount": 304,
+    "language": "zh",
+    "growthDimensions": [
+      "scientific_thinking",
+      "imagination",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "读完三体，你会用全新的眼光仰望星空。",
+    "relatedSameAuthor": [
+      "tk-02",
+      "tk-03"
+    ],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "三体 书评",
+        "刘慈欣 科幻",
+        "中国科幻 推荐"
+      ],
+      "bilibili": [
+        "三体 读书笔记",
+        "刘慈欣 宇宙"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-02",
+    "title": "三体II：黑暗森林",
+    "author": "刘慈欣",
+    "isbn": "9787536693968",
+    "description": "宇宙社会学揭示残酷真相：黑暗森林中，暴露即死亡。",
+    "categories": [
+      "科幻",
+      "科学"
+    ],
+    "themes": [
+      "黑暗森林法则",
+      "猜疑链",
+      "技术爆炸"
+    ],
+    "era": "2000s",
+    "publishYear": 2008,
+    "rating": 4.9,
+    "pageCount": 400,
+    "language": "zh",
+    "growthDimensions": [
+      "scientific_thinking",
+      "imagination",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "宇宙社会学的残酷逻辑，让人不寒而栗。",
+    "relatedSameAuthor": [
+      "tk-01",
+      "tk-03"
+    ],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "黑暗森林 书评",
+        "三体2 读后感",
+        "黑暗森林法则"
+      ],
+      "bilibili": [
+        "黑暗森林 读书笔记",
+        "三体 深度解析"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-03",
+    "title": "三体III：死神永生",
+    "author": "刘慈欣",
+    "isbn": "9787536693968",
+    "description": "宇宙的终极命运与人类文明的最后选择。",
+    "categories": [
+      "科幻",
+      "科学"
+    ],
+    "themes": [
+      "宇宙命运",
+      "维度战争",
+      "归零者"
+    ],
+    "era": "2010s",
+    "publishYear": 2010,
+    "rating": 4.8,
+    "pageCount": 450,
+    "language": "zh",
+    "growthDimensions": [
+      "scientific_thinking",
+      "imagination",
+      "philosophical_thinking"
+    ],
+    "oneLineRecommendation": "当宇宙走向终结，文明的意义是什么？",
+    "relatedSameAuthor": [
+      "tk-01",
+      "tk-02"
+    ],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "死神永生 书评",
+        "三体3 读后感",
+        "三体 完结"
+      ],
+      "bilibili": [
+        "死神永生 读书笔记",
+        "三体 全系列"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-04",
+    "title": "人类简史",
+    "author": "Yuval Noah Harari",
+    "isbn": "9787508647029",
+    "description": "从认知革命到科学革命，重新审视人类的历史。",
+    "categories": [
+      "科学",
+      "历史",
+      "哲学"
+    ],
+    "themes": [
+      "认知革命",
+      "农业革命",
+      "想象的秩序"
+    ],
+    "era": "2010s",
+    "publishYear": 2014,
+    "rating": 4.6,
+    "pageCount": 440,
+    "language": "he",
+    "growthDimensions": [
+      "scientific_thinking",
+      "critical_thinking",
+      "systems_thinking"
+    ],
+    "oneLineRecommendation": "人类最强大的能力，是相信虚构的故事。",
+    "relatedSameAuthor": [
+      "tk-05"
+    ],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "人类简史 书评",
+        "Harari 推荐",
+        "认知革命 读后感"
+      ],
+      "bilibili": [
+        "人类简史 读书笔记",
+        "尤瓦尔赫拉利"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-05",
+    "title": "未来简史",
+    "author": "Yuval Noah Harari",
+    "isbn": "9787508672243",
+    "description": "人类征服了饥荒和瘟疫之后，下一个目标是永生和幸福。",
+    "categories": [
+      "科学",
+      "科技",
+      "哲学"
+    ],
+    "themes": [
+      "数据主义",
+      "人工智能",
+      "生物革命"
+    ],
+    "era": "2010s",
+    "publishYear": 2016,
+    "rating": 4.4,
+    "pageCount": 368,
+    "language": "he",
+    "growthDimensions": [
+      "scientific_thinking",
+      "critical_thinking",
+      "imagination"
+    ],
+    "oneLineRecommendation": "未来的人类可能被算法取代，你准备好了吗？",
+    "relatedSameAuthor": [
+      "tk-04"
+    ],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [
+      "tk-11"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "未来简史 书评",
+        "Harari 未来",
+        "AI 推荐"
+      ],
+      "bilibili": [
+        "未来简史 读书笔记",
+        "未来学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-06",
+    "title": "时间简史",
+    "author": "Stephen Hawking",
+    "isbn": "9787535710277",
+    "description": "从大爆炸到黑洞洞，用最通俗的语言解释宇宙。",
+    "categories": [
+      "科学",
+      "物理"
+    ],
+    "themes": [
+      "宇宙起源",
+      "黑洞",
+      "时间本质",
+      "相对论"
+    ],
+    "era": "1980s",
+    "publishYear": 1988,
+    "rating": 4.5,
+    "pageCount": 240,
+    "language": "en",
+    "growthDimensions": [
+      "scientific_thinking",
+      "imagination",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "宇宙的秘密，比你想象的更简单也更奇妙。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-03",
+      "si-19",
+      "ps-05",
+      "ps-10"
+    ],
+    "relatedSameTheme": [
+      "tk-14"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "时间简史 书评",
+        "霍金 推荐",
+        "宇宙学科普"
+      ],
+      "bilibili": [
+        "时间简史 读书笔记",
+        "Stephen Hawking 宇宙"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-07",
+    "title": "基因传",
+    "author": "Siddhartha Mukherjee",
+    "isbn": "9787508664019",
+    "description": "从孟德尔到CRISPR，基因的史诗故事。",
+    "categories": [
+      "科学",
+      "生物"
+    ],
+    "themes": [
+      "基因",
+      "遗传",
+      "基因编辑",
+      "生命密码"
+    ],
+    "era": "2010s",
+    "publishYear": 2016,
+    "rating": 4.6,
+    "pageCount": 560,
+    "language": "en",
+    "growthDimensions": [
+      "scientific_thinking",
+      "critical_thinking",
+      "imagination"
+    ],
+    "oneLineRecommendation": "了解基因，就是了解生命最底层的代码。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [
+      "tk-15"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "基因传 书评",
+        "基因编辑 推荐",
+        "CRISPR 科普"
+      ],
+      "bilibili": [
+        "基因传 读书笔记",
+        "基因科学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-08",
+    "title": "万物简史",
+    "author": "Bill Bryson",
+    "isbn": "9787508631219",
+    "description": "从宇宙大爆炸到人类文明，一部妙趣横生的科学史。",
+    "categories": [
+      "科学",
+      "科普"
+    ],
+    "themes": [
+      "宇宙",
+      "原子",
+      "地质学",
+      "科学发现"
+    ],
+    "era": "2000s",
+    "publishYear": 2003,
+    "rating": 4.5,
+    "pageCount": 480,
+    "language": "en",
+    "growthDimensions": [
+      "scientific_thinking",
+      "imagination",
+      "creativity"
+    ],
+    "oneLineRecommendation": "科学也可以很有趣，这本书让你爱上科学。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [
+      "tk-12",
+      "tk-13"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "万物简史 书评",
+        "科普书 推荐",
+        "科学史 入门"
+      ],
+      "bilibili": [
+        "万物简史 读书笔记",
+        "Bill Bryson"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-09",
+    "title": "基地",
+    "author": "Isaac Asimov",
+    "isbn": "9787539940793",
+    "description": "心理史学家预测银河帝国的衰亡，用科学保存文明的火种。",
+    "categories": [
+      "科幻"
+    ],
+    "themes": [
+      "心理史学",
+      "银河帝国",
+      "文明兴衰"
+    ],
+    "era": "1940s",
+    "publishYear": 1951,
+    "rating": 4.6,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "scientific_thinking",
+      "imagination",
+      "systems_thinking"
+    ],
+    "oneLineRecommendation": "用科学预测未来，是科幻最浪漫的想象。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-10",
+      "ps-13",
+      "bz-12",
+      "lt-01"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "基地 书评",
+        "Asimov 科幻经典",
+        "银河帝国 推荐"
+      ],
+      "bilibili": [
+        "基地 读书笔记",
+        "Isaac Asimov"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-10",
+    "title": "沙丘",
+    "author": "Frank Herbert",
+    "isbn": "9787539940793",
+    "description": "沙漠星球上的权力游戏，科幻文学的史诗巨著。",
+    "categories": [
+      "科幻"
+    ],
+    "themes": [
+      "生态",
+      "政治",
+      "宗教",
+      "命运"
+    ],
+    "era": "1960s",
+    "publishYear": 1965,
+    "rating": 4.5,
+    "pageCount": 580,
+    "language": "en",
+    "growthDimensions": [
+      "imagination",
+      "systems_thinking",
+      "philosophical_thinking"
+    ],
+    "oneLineRecommendation": "科幻版的权力游戏，比任何奇幻都更宏大。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "lt-09",
+      "lt-20"
+    ],
+    "relatedSameTheme": [
+      "lt-03",
+      "lt-08",
+      "lt-09",
+      "lt-16"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "沙丘 书评",
+        "Frank Herbert 科幻",
+        "沙丘电影 原著"
+      ],
+      "bilibili": [
+        "沙丘 读书笔记",
+        "科幻经典"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-11",
+    "title": "神经漫游者",
+    "author": "William Gibson",
+    "isbn": "9787539940793",
+    "description": "赛博朋克科幻的开山之作，预言了网络空间的未来。",
+    "categories": [
+      "科幻",
+      "科技"
+    ],
+    "themes": [
+      "赛博空间",
+      "人工智能",
+      "黑客",
+      "后人类"
+    ],
+    "era": "1980s",
+    "publishYear": 1984,
+    "rating": 4.3,
+    "pageCount": 320,
+    "language": "en",
+    "growthDimensions": [
+      "imagination",
+      "creativity",
+      "scientific_thinking"
+    ],
+    "oneLineRecommendation": "在互联网诞生之前，这本书就已经预言了它的未来。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-03",
+      "si-19",
+      "ps-05",
+      "ps-10"
+    ],
+    "relatedSameTheme": [
+      "tk-05"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "神经漫游者 书评",
+        "赛博朋克 推荐",
+        "William Gibson"
+      ],
+      "bilibili": [
+        "神经漫游者 读书笔记",
+        "赛博朋克科幻"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-12",
+    "title": "银河系搭车客指南",
+    "author": "Douglas Adams",
+    "isbn": "9787532737505",
+    "description": "宇宙最搞笑的科幻指南，42是终极答案。",
+    "categories": [
+      "科幻",
+      "幽默"
+    ],
+    "themes": [
+      "荒诞",
+      "宇宙",
+      "存在意义",
+      "42"
+    ],
+    "era": "1970s",
+    "publishYear": 1979,
+    "rating": 4.5,
+    "pageCount": 208,
+    "language": "en",
+    "growthDimensions": [
+      "imagination",
+      "creativity",
+      "wellbeing"
+    ],
+    "oneLineRecommendation": "不要恐慌，带上毛巾就好。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-06",
+      "ps-11",
+      "bz-11",
+      "tk-15"
+    ],
+    "relatedSameTheme": [
+      "tk-08",
+      "tk-13",
+      "lt-14"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "银河系搭车客指南 书评",
+        "Douglas Adams 幽默",
+        "42 终极答案"
+      ],
+      "bilibili": [
+        "银河系搭车客指南 读书笔记",
+        "搞笑科幻"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-13",
+    "title": "生命3.0",
+    "author": "Max Tegmark",
+    "isbn": "9787515820538",
+    "description": "MIT物理学家探讨人工智能时代人类的未来。",
+    "categories": [
+      "科技",
+      "科学",
+      "哲学"
+    ],
+    "themes": [
+      "AI",
+      "意识",
+      "人类未来",
+      "宇宙"
+    ],
+    "era": "2010s",
+    "publishYear": 2017,
+    "rating": 4.3,
+    "pageCount": 368,
+    "language": "en",
+    "growthDimensions": [
+      "scientific_thinking",
+      "critical_thinking",
+      "imagination"
+    ],
+    "oneLineRecommendation": "AI会超越人类吗？这本书给出了最深入的分析。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [
+      "tk-08",
+      "tk-12"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "生命3.0 书评",
+        "AI 未来 推荐",
+        "人工智能 思考"
+      ],
+      "bilibili": [
+        "生命3.0 读书笔记",
+        "Max Tegmark AI"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-14",
+    "title": "七堂极简物理课",
+    "author": "Carlo Rovelli",
+    "isbn": "9787515816937",
+    "description": "用诗一般的语言讲述物理学最美的七个理论。",
+    "categories": [
+      "科学",
+      "物理"
+    ],
+    "themes": [
+      "相对论",
+      "量子力学",
+      "宇宙结构"
+    ],
+    "era": "2010s",
+    "publishYear": 2014,
+    "rating": 4.4,
+    "pageCount": 120,
+    "language": "it",
+    "growthDimensions": [
+      "scientific_thinking",
+      "imagination",
+      "creativity"
+    ],
+    "oneLineRecommendation": "物理学也可以像诗一样美。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [
+      "tk-06"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "七堂极简物理课 书评",
+        "物理学科普 推荐"
+      ],
+      "bilibili": [
+        "七堂极简物理课 读书笔记",
+        "Carlo Rovelli"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "tk-15",
+    "title": "自私的基因",
+    "author": "Richard Dawkins",
+    "isbn": "9787508635033",
+    "description": "从基因的视角看进化，颠覆你对生命的认知。",
+    "categories": [
+      "科学",
+      "生物"
+    ],
+    "themes": [
+      "基因",
+      "进化",
+      "自私",
+      "复制子"
+    ],
+    "era": "1970s",
+    "publishYear": 1976,
+    "rating": 4.5,
+    "pageCount": 384,
+    "language": "en",
+    "growthDimensions": [
+      "scientific_thinking",
+      "critical_thinking",
+      "systems_thinking"
+    ],
+    "oneLineRecommendation": "你不是在操控基因，基因在操控你。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-06",
+      "ps-11",
+      "bz-11",
+      "tk-12"
+    ],
+    "relatedSameTheme": [
+      "tk-07"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "自私的基因 书评",
+        "进化论 推荐",
+        "Dawkins 推荐"
+      ],
+      "bilibili": [
+        "自私的基因 读书笔记",
+        "Richard Dawkins 进化"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-01",
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "9787530210291",
+    "description": "极权主义社会的终极预言，老大哥在看着你。",
+    "categories": [
+      "文学",
+      "反乌托邦"
+    ],
+    "themes": [
+      "极权",
+      "监控",
+      "真理",
+      "自由"
+    ],
+    "era": "1940s",
+    "publishYear": 1949,
+    "rating": 4.7,
+    "pageCount": 328,
+    "language": "en",
+    "growthDimensions": [
+      "critical_thinking",
+      "philosophical_thinking",
+      "imagination"
+    ],
+    "oneLineRecommendation": "在一个谎言即真理的时代，说真话就是革命。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-10",
+      "ps-13",
+      "bz-12",
+      "tk-09"
+    ],
+    "relatedSameTheme": [
+      "ps-13"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "1984 书评",
+        "奥威尔 反乌托邦",
+        "反乌托邦小说 推荐"
+      ],
+      "bilibili": [
+        "1984 读书笔记",
+        "George Orwell 极权"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-02",
+    "title": "小王子",
+    "author": "Antoine de Saint-Exupéry",
+    "isbn": "9787020042081",
+    "description": "一个来自小行星的王子，教会我们什么是真正重要的。",
+    "categories": [
+      "文学",
+      "童话"
+    ],
+    "themes": [
+      "纯真",
+      "友谊",
+      "驯养",
+      "本质"
+    ],
+    "era": "1940s",
+    "publishYear": 1943,
+    "rating": 4.7,
+    "pageCount": 120,
+    "language": "fr",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "philosophical_thinking",
+      "imagination"
+    ],
+    "oneLineRecommendation": "真正重要的东西，用眼睛是看不见的。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-10",
+      "ps-13",
+      "bz-12",
+      "tk-09"
+    ],
+    "relatedSameTheme": [
+      "lt-04"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "小王子 书评",
+        "童话 治愈",
+        "圣埃克苏佩里 推荐"
+      ],
+      "bilibili": [
+        "小王子 读书笔记",
+        "治愈系文学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-03",
+    "title": "活着",
+    "author": "余华",
+    "isbn": "9787506365437",
+    "description": "一个人一生的苦难与坚韧，活着本身就是意义。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "苦难",
+      "生存",
+      "命运",
+      "坚韧"
+    ],
+    "era": "1990s",
+    "publishYear": 1993,
+    "rating": 4.8,
+    "pageCount": 192,
+    "language": "zh",
+    "growthDimensions": [
+      "resilience",
+      "emotional_intelligence",
+      "philosophical_thinking"
+    ],
+    "oneLineRecommendation": "活着不是为了什么，活着就是为了活着。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-11",
+      "si-13",
+      "ps-18",
+      "bz-06"
+    ],
+    "relatedSameTheme": [
+      "ps-16",
+      "tk-10",
+      "lt-08",
+      "lt-09"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "活着 书评",
+        "余华 推荐",
+        "中国文学经典"
+      ],
+      "bilibili": [
+        "活着 读书笔记",
+        "余华 文学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-04",
+    "title": "追风筝的人",
+    "author": "Khaled Hosseini",
+    "isbn": "9787208061644",
+    "description": "阿富汗两个少年的友谊与背叛，关于救赎与勇气。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "友谊",
+      "背叛",
+      "救赎",
+      "勇气"
+    ],
+    "era": "2000s",
+    "publishYear": 2003,
+    "rating": 4.6,
+    "pageCount": 376,
+    "language": "en",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "resilience",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "为你，千千万万遍。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-05",
+      "si-14",
+      "si-17",
+      "ps-02"
+    ],
+    "relatedSameTheme": [
+      "ps-16",
+      "ps-18",
+      "lt-02",
+      "lt-18"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "追风筝的人 书评",
+        "Hosseini 推荐",
+        "友谊 背叛 救赎"
+      ],
+      "bilibili": [
+        "追风筝的人 读书笔记",
+        "阿富汗文学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-05",
+    "title": "平凡的世界",
+    "author": "路遥",
+    "isbn": "9787530210291",
+    "description": "黄土高原上普通人的不平凡人生，一部中国农村的史诗。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "奋斗",
+      "爱情",
+      "时代",
+      "普通人"
+    ],
+    "era": "1980s",
+    "publishYear": 1986,
+    "rating": 4.7,
+    "pageCount": 1200,
+    "language": "zh",
+    "growthDimensions": [
+      "resilience",
+      "emotional_intelligence",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "每个平凡的人，都有自己的英雄主义。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-03",
+      "si-19",
+      "ps-05",
+      "ps-10"
+    ],
+    "relatedSameTheme": [
+      "lt-10",
+      "lt-11",
+      "lt-16"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "平凡的世界 书评",
+        "路遥 推荐",
+        "中国当代文学"
+      ],
+      "bilibili": [
+        "平凡的世界 读书笔记",
+        "路遥 人生"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-06",
+    "title": "围城",
+    "author": "钱钟书",
+    "isbn": "9787020024759",
+    "description": "婚姻如围城，城外的人想进去，城里的人想出来。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "婚姻",
+      "知识分子",
+      "讽刺",
+      "围城"
+    ],
+    "era": "1940s",
+    "publishYear": 1947,
+    "rating": 4.5,
+    "pageCount": 360,
+    "language": "zh",
+    "growthDimensions": [
+      "critical_thinking",
+      "emotional_intelligence",
+      "imagination"
+    ],
+    "oneLineRecommendation": "钱钟书的幽默，至今无人能及。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-10",
+      "ps-13",
+      "bz-12",
+      "tk-09"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "围城 书评",
+        "钱钟书 推荐",
+        "中国现代文学"
+      ],
+      "bilibili": [
+        "围城 读书笔记",
+        "钱钟书 讽刺"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-07",
+    "title": "房思琪的初恋乐园",
+    "author": "林奕含",
+    "isbn": "9787530217689",
+    "description": "一个关于权力、暴力和沉默的令人心碎的故事。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "权力",
+      "暴力",
+      "沉默",
+      "创伤"
+    ],
+    "era": "2010s",
+    "publishYear": 2017,
+    "rating": 4.6,
+    "pageCount": 368,
+    "language": "zh",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "resilience",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "有些痛，只有写出来才能被看见。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "房思琪的初恋乐园 书评",
+        "林奕含 推荐",
+        "女性文学"
+      ],
+      "bilibili": [
+        "房思琪的初恋乐园 读书笔记",
+        "林奕含"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-08",
+    "title": "白鹿原",
+    "author": "陈忠实",
+    "isbn": "9787020095070",
+    "description": "渭河平原五十年变迁，两个家族的恩怨情仇。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "家族",
+      "历史",
+      "乡土",
+      "命运"
+    ],
+    "era": "1990s",
+    "publishYear": 1993,
+    "rating": 4.6,
+    "pageCount": 680,
+    "language": "zh",
+    "growthDimensions": [
+      "imagination",
+      "emotional_intelligence",
+      "philosophical_thinking"
+    ],
+    "oneLineRecommendation": "一部中国农村的史诗，写尽了人性的复杂。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-11",
+      "si-13",
+      "ps-18",
+      "bz-06"
+    ],
+    "relatedSameTheme": [
+      "tk-10",
+      "lt-03",
+      "lt-09",
+      "lt-16"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "白鹿原 书评",
+        "陈忠实 推荐",
+        "茅盾文学奖"
+      ],
+      "bilibili": [
+        "白鹿原 读书笔记",
+        "中国乡土文学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-09",
+    "title": "百年孤独",
+    "author": "Gabriel García Márquez",
+    "isbn": "9787544253765",
+    "description": "布恩迪亚家族七代人的传奇故事，魔幻现实主义巅峰之作。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "孤独",
+      "命运",
+      "轮回",
+      "魔幻现实"
+    ],
+    "era": "1960s",
+    "publishYear": 1967,
+    "rating": 4.7,
+    "pageCount": 360,
+    "language": "es",
+    "growthDimensions": [
+      "imagination",
+      "philosophical_thinking",
+      "emotional_intelligence"
+    ],
+    "oneLineRecommendation": "生命中所有的灿烂，终将用寂寞来偿还。",
+    "relatedSameAuthor": [
+      "lt-10"
+    ],
+    "relatedSameEra": [
+      "tk-10",
+      "lt-20"
+    ],
+    "relatedSameTheme": [
+      "ps-13",
+      "ps-20",
+      "tk-10",
+      "lt-03"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "百年孤独 书评",
+        "马尔克斯 推荐",
+        "魔幻现实主义"
+      ],
+      "bilibili": [
+        "百年孤独 读书笔记",
+        "加西亚马尔克斯"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-10",
+    "title": "霍乱时期的爱情",
+    "author": "Gabriel García Márquez",
+    "isbn": "9787544253765",
+    "description": "一段跨越半个世纪的爱情，等待与坚守的极致诠释。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "爱情",
+      "等待",
+      "忠诚",
+      "时间"
+    ],
+    "era": "1980s",
+    "publishYear": 1985,
+    "rating": 4.5,
+    "pageCount": 400,
+    "language": "es",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "imagination",
+      "resilience"
+    ],
+    "oneLineRecommendation": "爱情是人类最美好的疾病。",
+    "relatedSameAuthor": [
+      "lt-09"
+    ],
+    "relatedSameEra": [
+      "si-03",
+      "si-19",
+      "ps-05",
+      "ps-10"
+    ],
+    "relatedSameTheme": [
+      "lt-05",
+      "lt-11",
+      "lt-12",
+      "lt-16"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "霍乱时期的爱情 书评",
+        "马尔克斯 爱情",
+        "经典爱情小说"
+      ],
+      "bilibili": [
+        "霍乱时期的爱情 读书笔记",
+        "马尔克斯"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-11",
+    "title": "挪威的森林",
+    "author": "村上春树",
+    "isbn": "9787532725694",
+    "description": "一段青春的爱情与失落，在生死之间寻找活下去的力量。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "青春",
+      "爱情",
+      "失落",
+      "生死"
+    ],
+    "era": "1980s",
+    "publishYear": 1987,
+    "rating": 4.4,
+    "pageCount": 384,
+    "language": "ja",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "self_awareness",
+      "imagination"
+    ],
+    "oneLineRecommendation": "每个人都有属于自己的挪威的森林。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-03",
+      "si-19",
+      "ps-05",
+      "ps-10"
+    ],
+    "relatedSameTheme": [
+      "lt-05",
+      "lt-10",
+      "lt-16"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "挪威的森林 书评",
+        "村上春树 推荐",
+        "青春文学"
+      ],
+      "bilibili": [
+        "挪威的森林 读书笔记",
+        "村上春树"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-12",
+    "title": "解忧杂货店",
+    "author": "东野圭吾",
+    "isbn": "9787544270878",
+    "description": "一家神奇的杂货店，连接过去与未来，治愈每一颗迷茫的心。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "治愈",
+      "时间",
+      "选择",
+      "温暖"
+    ],
+    "era": "2010s",
+    "publishYear": 2012,
+    "rating": 4.3,
+    "pageCount": 288,
+    "language": "ja",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "imagination",
+      "wellbeing"
+    ],
+    "oneLineRecommendation": "每个迷茫的灵魂，都能在这里找到答案。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-01",
+      "si-02",
+      "si-04",
+      "si-07"
+    ],
+    "relatedSameTheme": [
+      "lt-10",
+      "ph-06"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "解忧杂货店 书评",
+        "东野圭吾 治愈",
+        "温暖小说 推荐"
+      ],
+      "bilibili": [
+        "解忧杂货店 读书笔记",
+        "东野圭吾"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-13",
+    "title": "月亮与六便士",
+    "author": "W. Somerset Maugham",
+    "isbn": "9787532737505",
+    "description": "一个证券经纪人放弃一切去画画，追寻内心的月亮。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "理想",
+      "现实",
+      "艺术",
+      "追求"
+    ],
+    "era": "1910s",
+    "publishYear": 1919,
+    "rating": 4.4,
+    "pageCount": 272,
+    "language": "en",
+    "growthDimensions": [
+      "creativity",
+      "self_awareness",
+      "philosophical_thinking"
+    ],
+    "oneLineRecommendation": "满地都是六便士，他却抬头看见了月亮。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "月亮与六便士 书评",
+        "Maugham 推荐",
+        "理想与现实"
+      ],
+      "bilibili": [
+        "月亮与六便士 读书笔记",
+        "毛姆"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-14",
+    "title": "局外人",
+    "author": "Albert Camus",
+    "isbn": "9787532737505",
+    "description": "一个对世界无动于衷的人，却揭示了荒诞世界的真相。",
+    "categories": [
+      "文学",
+      "哲学"
+    ],
+    "themes": [
+      "荒诞",
+      "存在",
+      "冷漠",
+      "反抗"
+    ],
+    "era": "1940s",
+    "publishYear": 1942,
+    "rating": 4.5,
+    "pageCount": 160,
+    "language": "fr",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "self_awareness",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "在一个荒诞的世界里，诚实本身就是一种反抗。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-10",
+      "ps-13",
+      "bz-12",
+      "tk-09"
+    ],
+    "relatedSameTheme": [
+      "tk-12",
+      "ph-01",
+      "ph-06"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "局外人 书评",
+        "加缪 推荐",
+        "存在主义文学"
+      ],
+      "bilibili": [
+        "局外人 读书笔记",
+        "Albert Camus 荒诞"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-15",
+    "title": "人间失格",
+    "author": "太宰治",
+    "isbn": "9787532126187",
+    "description": "一个\"丧失做人资格\"的人的自白，日本文学的极致颓废之美。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "颓废",
+      "自我",
+      "社会",
+      "绝望"
+    ],
+    "era": "1940s",
+    "publishYear": 1948,
+    "rating": 4.3,
+    "pageCount": 192,
+    "language": "ja",
+    "growthDimensions": [
+      "self_awareness",
+      "emotional_intelligence",
+      "philosophical_thinking"
+    ],
+    "oneLineRecommendation": "生而为人，我很抱歉。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-10",
+      "ps-13",
+      "bz-12",
+      "tk-09"
+    ],
+    "relatedSameTheme": [
+      "lt-16",
+      "lt-18",
+      "ph-01"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "人间失格 书评",
+        "太宰治 推荐",
+        "日本文学经典"
+      ],
+      "bilibili": [
+        "人间失格 读书笔记",
+        "太宰治"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-16",
+    "title": "红楼梦",
+    "author": "曹雪芹",
+    "isbn": "9787020002207",
+    "description": "中国古典文学巅峰之作，一个大家族的兴衰与一群人的命运。",
+    "categories": [
+      "文学",
+      "古典"
+    ],
+    "themes": [
+      "家族兴衰",
+      "爱情",
+      "命运",
+      "社会"
+    ],
+    "era": "1760s",
+    "publishYear": 1791,
+    "rating": 4.8,
+    "pageCount": 1600,
+    "language": "zh",
+    "growthDimensions": [
+      "imagination",
+      "emotional_intelligence",
+      "philosophical_thinking"
+    ],
+    "oneLineRecommendation": "一部红楼梦，写尽了中国人的全部人生。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [],
+    "relatedSameTheme": [
+      "tk-10",
+      "lt-03",
+      "lt-05",
+      "lt-08"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "红楼梦 书评",
+        "中国古典文学 推荐",
+        "曹雪芹"
+      ],
+      "bilibili": [
+        "红楼梦 读书笔记",
+        "红楼梦 解读"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-17",
+    "title": "悉达多",
+    "author": "Hermann Hesse",
+    "isbn": "9787532737505",
+    "description": "一个婆罗门之子寻找自我的精神之旅。",
+    "categories": [
+      "文学",
+      "哲学"
+    ],
+    "themes": [
+      "自我寻找",
+      "觉悟",
+      "东方哲学",
+      "河流"
+    ],
+    "era": "1920s",
+    "publishYear": 1922,
+    "rating": 4.5,
+    "pageCount": 160,
+    "language": "de",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "self_awareness",
+      "mindfulness"
+    ],
+    "oneLineRecommendation": "智慧无法被教授，只能被体验。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "ph-06"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "悉达多 书评",
+        "黑塞 推荐",
+        "东方哲学 小说"
+      ],
+      "bilibili": [
+        "悉达多 读书笔记",
+        "Hermann Hesse"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-18",
+    "title": "悲惨世界",
+    "author": "Victor Hugo",
+    "isbn": "9787020095070",
+    "description": "一个苦役犯的自我救赎之路，法国文学的丰碑。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "救赎",
+      "正义",
+      "爱",
+      "社会"
+    ],
+    "era": "1860s",
+    "publishYear": 1862,
+    "rating": 4.6,
+    "pageCount": 1200,
+    "language": "fr",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "philosophical_thinking",
+      "resilience"
+    ],
+    "oneLineRecommendation": "在这个世界上，最强大的力量是善良。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "ps-16",
+      "bz-10"
+    ],
+    "relatedSameTheme": [
+      "ps-11",
+      "ps-14",
+      "ps-16",
+      "ps-18"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "悲惨世界 书评",
+        "雨果 推荐",
+        "法国文学经典"
+      ],
+      "bilibili": [
+        "悲惨世界 读书笔记",
+        "Victor Hugo"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-19",
+    "title": "老人与海",
+    "author": "Ernest Hemingway",
+    "isbn": "9787532737505",
+    "description": "一个老人与一条大鱼的搏斗，人可以被毁灭但不能被打败。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "坚韧",
+      "搏斗",
+      "尊严",
+      "自然"
+    ],
+    "era": "1950s",
+    "publishYear": 1952,
+    "rating": 4.4,
+    "pageCount": 128,
+    "language": "en",
+    "growthDimensions": [
+      "resilience",
+      "philosophical_thinking",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "一个人可以被毁灭，但不能被打败。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "ps-14"
+    ],
+    "relatedSameTheme": [
+      "ps-16",
+      "lt-03",
+      "ph-02"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "老人与海 书评",
+        "海明威 推荐",
+        "诺贝尔文学奖"
+      ],
+      "bilibili": [
+        "老人与海 读书笔记",
+        "Hemingway"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "lt-20",
+    "title": "杀死一只知更鸟",
+    "author": "Harper Lee",
+    "isbn": "9787544730297",
+    "description": "一个小女孩眼中的种族偏见与正义，美国文学经典。",
+    "categories": [
+      "文学",
+      "小说"
+    ],
+    "themes": [
+      "正义",
+      "偏见",
+      "勇气",
+      "成长"
+    ],
+    "era": "1960s",
+    "publishYear": 1960,
+    "rating": 4.7,
+    "pageCount": 384,
+    "language": "en",
+    "growthDimensions": [
+      "emotional_intelligence",
+      "critical_thinking",
+      "resilience"
+    ],
+    "oneLineRecommendation": "你永远不可能真正了解一个人，除非你穿上他的鞋子走来走去。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "tk-10",
+      "lt-09"
+    ],
+    "relatedSameTheme": [
+      "ps-05",
+      "ps-11",
+      "ps-18",
+      "bz-05"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "杀死一只知更鸟 书评",
+        "美国文学经典",
+        "正义 推荐"
+      ],
+      "bilibili": [
+        "杀死一只知更鸟 读书笔记",
+        "Harper Lee"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-01",
+    "title": "苏菲的世界",
+    "author": "Jostein Gaarder",
+    "isbn": "9787506341271",
+    "description": "一个少女的哲学之旅，从苏格拉底到萨特的西方哲学简史。",
+    "categories": [
+      "哲学",
+      "教育"
+    ],
+    "themes": [
+      "西方哲学史",
+      "存在",
+      "认识论",
+      "自我"
+    ],
+    "era": "1990s",
+    "publishYear": 1991,
+    "rating": 4.5,
+    "pageCount": 536,
+    "language": "no",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "self_awareness",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "最好的哲学入门书，像读小说一样了解哲学史。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-11",
+      "si-13",
+      "ps-18",
+      "bz-06"
+    ],
+    "relatedSameTheme": [
+      "lt-14",
+      "lt-15",
+      "ph-06"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "苏菲的世界 书评",
+        "哲学入门 推荐",
+        "西方哲学史"
+      ],
+      "bilibili": [
+        "苏菲的世界 读书笔记",
+        "哲学入门"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-02",
+    "title": "道德经",
+    "author": "老子",
+    "isbn": "9787101003918",
+    "description": "道可道非常道，中国哲学最深邃的经典。",
+    "categories": [
+      "哲学",
+      "古典"
+    ],
+    "themes": [
+      "道",
+      "无为",
+      "自然",
+      "柔弱"
+    ],
+    "era": "ancient",
+    "publishYear": -500,
+    "rating": 4.8,
+    "pageCount": 160,
+    "language": "zh",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "mindfulness",
+      "systems_thinking"
+    ],
+    "oneLineRecommendation": "两千五百年前的智慧，至今依然深邃。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "ph-03",
+      "ph-04",
+      "ph-05"
+    ],
+    "relatedSameTheme": [
+      "lt-19"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "道德经 书评",
+        "老子 哲学",
+        "中国哲学经典"
+      ],
+      "bilibili": [
+        "道德经 读书笔记",
+        "老子 智慧"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-03",
+    "title": "论语",
+    "author": "孔子",
+    "isbn": "9787101003918",
+    "description": "儒家思想的核心经典，影响中国两千多年的智慧。",
+    "categories": [
+      "哲学",
+      "古典"
+    ],
+    "themes": [
+      "仁",
+      "礼",
+      "君子",
+      "学习"
+    ],
+    "era": "ancient",
+    "publishYear": -400,
+    "rating": 4.6,
+    "pageCount": 200,
+    "language": "zh",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "social_skills",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "半部论语治天下，其中的智慧永不过时。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "ph-02",
+      "ph-04",
+      "ph-05"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "论语 书评",
+        "孔子 智慧",
+        "儒家 推荐"
+      ],
+      "bilibili": [
+        "论语 读书笔记",
+        "孔子 思想"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-04",
+    "title": "沉思录",
+    "author": "Marcus Aurelius",
+    "isbn": "9787511704566",
+    "description": "罗马皇帝的个人沉思，斯多葛哲学的实践指南。",
+    "categories": [
+      "哲学",
+      "古典"
+    ],
+    "themes": [
+      "斯多葛",
+      "自控",
+      "理性",
+      "命运"
+    ],
+    "era": "ancient",
+    "publishYear": 180,
+    "rating": 4.5,
+    "pageCount": 240,
+    "language": "grc",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "resilience",
+      "mindfulness"
+    ],
+    "oneLineRecommendation": "两千年前的帝王日记，依然是最好的心灵指南。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "ph-02",
+      "ph-03",
+      "ph-05"
+    ],
+    "relatedSameTheme": [
+      "tk-10",
+      "lt-03",
+      "lt-08",
+      "lt-09"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "沉思录 书评",
+        "斯多葛哲学 推荐",
+        "Marcus Aurelius"
+      ],
+      "bilibili": [
+        "沉思录 读书笔记",
+        "斯多葛主义"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-05",
+    "title": "理想国",
+    "author": "Plato",
+    "isbn": "9787100020640",
+    "description": "柏拉图关于正义、理想社会和人类灵魂的哲学对话。",
+    "categories": [
+      "哲学",
+      "政治"
+    ],
+    "themes": [
+      "正义",
+      "理念论",
+      "洞穴隐喻",
+      "哲人王"
+    ],
+    "era": "ancient",
+    "publishYear": -380,
+    "rating": 4.5,
+    "pageCount": 400,
+    "language": "grc",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "critical_thinking",
+      "systems_thinking"
+    ],
+    "oneLineRecommendation": "走出洞穴，才能看见真正的光。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "ph-02",
+      "ph-03",
+      "ph-04"
+    ],
+    "relatedSameTheme": [
+      "lt-18",
+      "lt-20"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "理想国 书评",
+        "柏拉图 推荐",
+        "洞穴隐喻"
+      ],
+      "bilibili": [
+        "理想国 读书笔记",
+        "Plato 哲学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-06",
+    "title": "存在与时间",
+    "author": "Martin Heidegger",
+    "isbn": "9787108014559",
+    "description": "追问\"存在\"的意义，20世纪最重要的哲学著作之一。",
+    "categories": [
+      "哲学"
+    ],
+    "themes": [
+      "存在",
+      "时间",
+      "此在",
+      "向死而生"
+    ],
+    "era": "1920s",
+    "publishYear": 1927,
+    "rating": 4.2,
+    "pageCount": 600,
+    "language": "de",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "self_awareness",
+      "critical_thinking"
+    ],
+    "oneLineRecommendation": "追问存在的意义，是哲学最根本的任务。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "lt-17"
+    ],
+    "relatedSameTheme": [
+      "lt-10",
+      "lt-12",
+      "lt-14",
+      "ph-01"
+    ],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "存在与时间 书评",
+        "海德格尔 推荐",
+        "存在主义"
+      ],
+      "bilibili": [
+        "存在与时间 读书笔记",
+        "Heidegger 哲学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-07",
+    "title": "西方哲学史",
+    "author": "Bertrand Russell",
+    "isbn": "9787100004831",
+    "description": "罗素笔下的西方哲学发展历程，兼具深度与可读性。",
+    "categories": [
+      "哲学",
+      "历史"
+    ],
+    "themes": [
+      "哲学史",
+      "理性主义",
+      "经验主义",
+      "逻辑"
+    ],
+    "era": "1940s",
+    "publishYear": 1945,
+    "rating": 4.5,
+    "pageCount": 800,
+    "language": "en",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "critical_thinking",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "了解哲学史，就是了解人类思想的演进。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-10",
+      "ps-13",
+      "bz-12",
+      "tk-09"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "西方哲学史 书评",
+        "罗素 推荐",
+        "哲学史 入门"
+      ],
+      "bilibili": [
+        "西方哲学史 读书笔记",
+        "Bertrand Russell"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-08",
+    "title": "中国哲学简史",
+    "author": "冯友兰",
+    "isbn": "9787301020159",
+    "description": "中国哲学的入门经典，从先秦到近代的思想脉络。",
+    "categories": [
+      "哲学",
+      "历史"
+    ],
+    "themes": [
+      "中国哲学",
+      "儒道佛",
+      "天人合一"
+    ],
+    "era": "1940s",
+    "publishYear": 1947,
+    "rating": 4.6,
+    "pageCount": 320,
+    "language": "zh",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "critical_thinking",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "一本小书，写尽中国哲学的大智慧。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [
+      "si-10",
+      "ps-13",
+      "bz-12",
+      "tk-09"
+    ],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "中国哲学简史 书评",
+        "冯友兰 推荐",
+        "中国哲学入门"
+      ],
+      "bilibili": [
+        "中国哲学简史 读书笔记",
+        "冯友兰 哲学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-09",
+    "title": "传习录",
+    "author": "王阳明",
+    "isbn": "9787101003918",
+    "description": "心学大师王阳明的语录与书信，知行合一的实践哲学。",
+    "categories": [
+      "哲学",
+      "古典"
+    ],
+    "themes": [
+      "知行合一",
+      "致良知",
+      "心即理",
+      "格物"
+    ],
+    "era": "1510s",
+    "publishYear": 1518,
+    "rating": 4.6,
+    "pageCount": 280,
+    "language": "zh",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "self_awareness",
+      "resilience"
+    ],
+    "oneLineRecommendation": "知行合一，是王阳明留给我们最实用的智慧。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "传习录 书评",
+        "王阳明 心学",
+        "知行合一 推荐"
+      ],
+      "bilibili": [
+        "传习录 读书笔记",
+        "王阳明 心学"
+      ]
+    },
+    "coverUrl": ""
+  },
+  {
+    "id": "ph-10",
+    "title": "查拉图斯特拉如是说",
+    "author": "Friedrich Nietzsche",
+    "isbn": "9787108014559",
+    "description": "尼采的哲学诗篇，超人意志与永恒轮回的思想实验。",
+    "categories": [
+      "哲学"
+    ],
+    "themes": [
+      "超人",
+      "权力意志",
+      "永恒轮回",
+      "上帝已死"
+    ],
+    "era": "1880s",
+    "publishYear": 1883,
+    "rating": 4.5,
+    "pageCount": 400,
+    "language": "de",
+    "growthDimensions": [
+      "philosophical_thinking",
+      "creativity",
+      "self_awareness"
+    ],
+    "oneLineRecommendation": "上帝已死，人应当成为超人。",
+    "relatedSameAuthor": [],
+    "relatedSameEra": [],
+    "relatedSameTheme": [],
+    "socialKeywords": {
+      "xiaohongshu": [
+        "查拉图斯特拉如是说 书评",
+        "尼采 推荐",
+        "超人哲学"
+      ],
+      "bilibili": [
+        "查拉图斯特拉如是说 读书笔记",
+        "Nietzsche 哲学"
+      ]
+    },
+    "coverUrl": ""
+  }
+]

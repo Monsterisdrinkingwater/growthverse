@@ -1,0 +1,250 @@
+[
+  {
+    "type": "deep-thinker",
+    "name": "深度思考者",
+    "description": "你喜欢反复咀嚼一本好书，在字里行间寻找深层的含义。对你来说，读书不是完成任务，而是一场与作者的深度对话。你常常在读完一本书后需要很长时间来消化它的内容。",
+    "strengths": [
+      "深度理解能力强",
+      "批判性思维",
+      "善于发现隐藏的模式",
+      "独立思考"
+    ],
+    "blindSpots": [
+      "可能忽视阅读广度",
+      "容易陷入过度分析",
+      "有时难以享受轻松的阅读"
+    ],
+    "recommendedBooks": [
+      "ph-06",
+      "ph-05",
+      "ps-01",
+      "bz-04",
+      "lt-14",
+      "ph-10",
+      "si-11",
+      "tk-06"
+    ],
+    "shareCardStyle": {
+      "bgColor": "#1a1a2e",
+      "accentColor": "#e94560",
+      "textColor": "#ffffff"
+    }
+  },
+  {
+    "type": "explorer",
+    "name": "知识探索者",
+    "description": "你对世界充满好奇，阅读面极广。从量子物理到古典文学，从商业传记到哲学经典，你都能津津有味地阅读。你最大的乐趣是在不同领域之间发现意想不到的联系。",
+    "strengths": [
+      "跨领域连接能力",
+      "广泛的知识面",
+      "快速学习",
+      "适应力强"
+    ],
+    "blindSpots": [
+      "可能缺乏深度",
+      "容易浅尝辄止",
+      "有时难以坚持读完一本大部头"
+    ],
+    "recommendedBooks": [
+      "tk-08",
+      "tk-04",
+      "ph-01",
+      "ph-07",
+      "ph-08",
+      "tk-15",
+      "ps-05",
+      "bz-09"
+    ],
+    "shareCardStyle": {
+      "bgColor": "#0f3460",
+      "accentColor": "#16c79a",
+      "textColor": "#ffffff"
+    }
+  },
+  {
+    "type": "empath",
+    "name": "共情读者",
+    "description": "你读书时总是被角色的情感所打动，仿佛亲身经历他们的喜怒哀乐。你偏爱能触动心灵的文学作品，在别人的故事中看见自己的人生。阅读对你来说是一种情感体验。",
+    "strengths": [
+      "强大的共情能力",
+      "情感理解深度",
+      "人际敏感度高",
+      "文学鉴赏力"
+    ],
+    "blindSpots": [
+      "可能过度代入角色情感",
+      "有时回避挑战性内容",
+      "容易被情绪影响判断"
+    ],
+    "recommendedBooks": [
+      "lt-03",
+      "lt-04",
+      "lt-09",
+      "lt-11",
+      "lt-12",
+      "lt-18",
+      "ps-02",
+      "ps-14"
+    ],
+    "shareCardStyle": {
+      "bgColor": "#2d132c",
+      "accentColor": "#ee4c7c",
+      "textColor": "#ffffff"
+    }
+  },
+  {
+    "type": "pragmatist",
+    "name": "实用主义者",
+    "description": "你读书的目标很明确：学到能用的东西。你偏爱自我提升、商业和技能类书籍，每读完一本都会思考\"我能从中提取什么行动\"。你是笔记达人，善于将书中知识转化为实践。",
+    "strengths": [
+      "执行力强",
+      "善于提取 actionable insights",
+      "目标导向",
+      "持续改进"
+    ],
+    "blindSpots": [
+      "可能忽视无\"实用价值\"的好书",
+      "有时过于功利",
+      "可能错过启发性的文学作品"
+    ],
+    "recommendedBooks": [
+      "si-02",
+      "si-03",
+      "si-09",
+      "bz-01",
+      "bz-02",
+      "si-04",
+      "si-12",
+      "si-20"
+    ],
+    "shareCardStyle": {
+      "bgColor": "#1b262c",
+      "accentColor": "#bbe1fa",
+      "textColor": "#ffffff"
+    }
+  },
+  {
+    "type": "dreamer",
+    "name": "幻想漫游者",
+    "description": "你最享受的是在想象力的世界中遨游。科幻小说的宏大叙事、奇幻文学的瑰丽世界、魔幻现实主义的亦真亦幻——这些是你最爱的精神食粮。你相信想象力是人类最珍贵的能力。",
+    "strengths": [
+      "丰富的想象力",
+      "创造性思维",
+      "宏观视野",
+      "对可能性的敏感"
+    ],
+    "blindSpots": [
+      "可能逃避现实",
+      "有时难以区分理想与现实",
+      "可能忽视实用知识"
+    ],
+    "recommendedBooks": [
+      "tk-01",
+      "tk-02",
+      "tk-09",
+      "tk-10",
+      "tk-12",
+      "lt-09",
+      "lt-02",
+      "tk-11"
+    ],
+    "shareCardStyle": {
+      "bgColor": "#1a0a2e",
+      "accentColor": "#a855f7",
+      "textColor": "#ffffff"
+    }
+  },
+  {
+    "type": "philosopher",
+    "name": "灵魂追问者",
+    "description": "你总是在追问最根本的问题：人生的意义是什么？什么是好的生活？自由与责任如何平衡？你偏爱哲学和思想类书籍，在思想的密林中寻找照亮人生的光。",
+    "strengths": [
+      "本质思考能力",
+      "价值判断力",
+      "精神独立",
+      "思想深度"
+    ],
+    "blindSpots": [
+      "可能过度抽象化",
+      "有时忽视实际行动",
+      "容易陷入存在焦虑"
+    ],
+    "recommendedBooks": [
+      "ph-02",
+      "ph-03",
+      "ph-04",
+      "ph-09",
+      "ph-10",
+      "lt-17",
+      "lt-14",
+      "si-11"
+    ],
+    "shareCardStyle": {
+      "bgColor": "#0d1b2a",
+      "accentColor": "#e0e1dd",
+      "textColor": "#ffffff"
+    }
+  },
+  {
+    "type": "social-learner",
+    "name": "社交学习家",
+    "description": "你相信最好的学习发生在对话中。你读书后会积极与他人分享讨论，在社交平台上写书评，参加读书会。你善于从不同角度理解一本书，并在交流中获得新的洞见。",
+    "strengths": [
+      "沟通表达能力",
+      "多角度思考",
+      "知识传播力",
+      "社区建设能力"
+    ],
+    "blindSpots": [
+      "可能过于在意他人看法",
+      "有时缺乏独立深度思考",
+      "容易受社交反馈影响"
+    ],
+    "recommendedBooks": [
+      "si-16",
+      "si-03",
+      "ps-02",
+      "ps-10",
+      "bz-07",
+      "lt-20",
+      "si-15",
+      "ps-06"
+    ],
+    "shareCardStyle": {
+      "bgColor": "#1b4332",
+      "accentColor": "#95d5b2",
+      "textColor": "#ffffff"
+    }
+  },
+  {
+    "type": "aesthetic",
+    "name": "美学鉴赏家",
+    "description": "你读书不仅为了内容，也为了文字本身的美感。你迷恋优美的文笔、精巧的结构和独特的叙事方式。对你来说，一本好书就像一件艺术品，值得反复品味。",
+    "strengths": [
+      "文学鉴赏力",
+      "审美敏感度高",
+      "语言感受力",
+      "细节观察力"
+    ],
+    "blindSpots": [
+      "可能因文笔放弃好书",
+      "有时过于注重形式",
+      "可能忽视思想性"
+    ],
+    "recommendedBooks": [
+      "lt-09",
+      "lt-13",
+      "lt-17",
+      "lt-15",
+      "lt-06",
+      "lt-11",
+      "ph-01",
+      "tk-14"
+    ],
+    "shareCardStyle": {
+      "bgColor": "#2b2d42",
+      "accentColor": "#ef233c",
+      "textColor": "#ffffff"
+    }
+  }
+]

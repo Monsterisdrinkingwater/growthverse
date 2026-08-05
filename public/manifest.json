@@ -1,0 +1,17 @@
+{
+  "name": "GrowthVerse · 成长宇宙",
+  "short_name": "GrowthVerse",
+  "description": "AI 驱动的沉浸式阅读伴侣",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#c4553a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

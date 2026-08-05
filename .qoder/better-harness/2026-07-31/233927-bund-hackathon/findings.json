@@ -1,0 +1,151 @@
+{
+  "summary": {
+    "projectName": "bund-hackathon",
+    "locale": "zh-CN",
+    "modelId": "agent-work-loop-v4",
+    "reportContractVersion": 25,
+    "overview": "项目上下文文档完善、本地测试跑得快，但交付安全网偏薄：仓库无版本控制、交付前无自动化门禁、测试范围混入 vendored 子项目、外部取数路由缺少聚焦测试与可关联可观测性，且少数恒定约束仅存在于按需检索的 Memory。会话证据稀疏（56 会话中仅 2 个带可观察请求、0 变更/0 检查/0 结果信号），行为类结论保持谨慎。",
+    "strengths": [
+      "上下文地图完善：README、docs/architecture.md 与 .env.example 清晰界定架构、Agent 分工与环境变量边界。",
+      "本地快速反馈强：npm run test:run 运行 257 个测试约 1.5 秒全绿，核心 AI 路由覆盖无 Key 与无效 Key 的降级用例。",
+      "服务端密钥处理谨慎：环境 Key 不打印、client key 不进缓存实例，.gitignore 忽略 .env*.local 与 *.pem。"
+    ],
+    "aiAgentPractice": {
+      "inspectedSurfaces": [],
+      "coverageRows": [
+        {
+          "surface": "Memories",
+          "scopes": [
+            "Project"
+          ],
+          "count": 30
+        },
+        {
+          "surface": "Custom Agents",
+          "scopes": [
+            "Project"
+          ],
+          "count": 0
+        }
+      ]
+    },
+    "assignmentSummaries": [],
+    "dimensions": [
+      {
+        "id": "task-understanding",
+        "label": "任务理解",
+        "score": 70,
+        "summary": "README、架构文档与环境样例把预期目标和边界讲得清楚；但因无版本控制，实际改动范围无法对照 diff 复核，范围边界停留在声明层。",
+        "findingRefs": []
+      },
+      {
+        "id": "controlled-execution",
+        "label": "可控执行",
+        "score": 64,
+        "summary": "启动路径（node>=22、npm ci、npm run dev、豆瓣 sidecar）文档齐全且本地可跑，密钥处理谨慎；但操作与权限边界未从干净态被完整演练。",
+        "findingRefs": []
+      },
+      {
+        "id": "change-validation",
+        "label": "改动验证",
+        "score": 62,
+        "summary": "存在并已运行聚焦测试且覆盖核心 AI 降级路径；但主测试范围被 vendored 子项目稀释，且外部取数路由缺少聚焦测试与可关联可观测性。",
+        "findingRefs": [
+          "test-scope-includes-vendored-subproject",
+          "external-data-routes-unchecked-observability"
+        ]
+      },
+      {
+        "id": "reliable-delivery",
+        "label": "可靠交付",
+        "score": 40,
+        "summary": "无版本控制即无回滚基线与变更可追溯性，且交付前无强制运行的自动化门禁，交付安全性主要依赖人工自觉。",
+        "findingRefs": [
+          "no-version-control-baseline",
+          "no-automated-gate-before-deploy"
+        ]
+      },
+      {
+        "id": "learning-capture",
+        "label": "经验沉淀",
+        "score": 45,
+        "summary": "30 条项目 Memory 覆盖环境/依赖/技术栈等主题，但少数必须恒定生效的约束仅以按需检索的 Memory 承载，缺少始终加载的 Rules/AGENTS.md 承接；无可比后续窗口，长期验证不适用。",
+        "findingRefs": [
+          "always-on-constraints-only-in-memory"
+        ]
+      }
+    ]
+  },
+  "findings": [
+    {
+      "id": "no-version-control-baseline",
+      "title": "仓库无版本控制，缺少回滚基线与改动可追溯性",
+      "severity": "High",
+      "reason": "事实：仓库根不存在 .git，git rev-parse 报 not a git repository，evidence-pack 因此失败，无历史、无 diff、无提交边界。推断：任何 agent 改动都没有回滚点、没有 diff 审查触发点，也无法机械确认改了什么/是否连带改了测试；这是本次可靠交付维度证据缺失的根因。归属：仓库根（项目维护者）。不确定性：无基线，因而也无法判断当前工作副本是否已偏离任一预期状态。",
+      "expectedOutput": [
+        "仓库根具备初始提交基线，工作副本被跟踪且敏感文件未纳入版本控制。"
+      ],
+      "expectedArtifact": "版本控制基线",
+      "aiFixPrompt": "/better-harness 修复此问题\n\n在仓库根初始化版本控制，为后续每次改动建立可追溯的提交边界与回滚基线。现有 .gitignore 已忽略 .env*.local、.next、node_modules。\n\n## 步骤\n\n- 在仓库根运行 git init 并完成首次提交\n- 确认工作副本已被跟踪、敏感文件未被纳入\n\n## 验证\n\n- 运行 git status 确认没有敏感文件被跟踪\n- 运行 git log 确认存在初始提交基线",
+      "dimensionRefs": [
+        "reliable-delivery"
+      ]
+    },
+    {
+      "id": "no-automated-gate-before-deploy",
+      "title": "交付前无强制门禁，check 仅靠本地手动运行",
+      "severity": "Medium",
+      "reason": "事实：package.json 定义了 check（lint && typecheck && test:run && build），但主应用无 .github/ 工作流、无 pre-commit/pre-push hook，vercel.json 仅负责构建、不运行 lint/test。推断：门禁能力存在但未被强制执行，回归测试不会在交付前自动运行，静态声明不等于实际拦截。归属：vercel.json 或新增的根级 CI/门禁。不确定性：check 是否被开发者习惯性运行不可观察。",
+      "expectedOutput": [
+        "交付/合并前会自动运行 lint、类型检查与测试，失败时交付被拦截。"
+      ],
+      "expectedArtifact": "自动化门禁配置",
+      "aiFixPrompt": "/better-harness 修复此问题\n\n把已有的 check 门禁接入自动化，使 lint、类型检查、测试在交付前被强制运行，而非仅靠本地手动执行。\n\n## 步骤\n\n- 在 vercel.json 或新增的根级 CI 工作流中，将 npm run check 接入构建前置或 PR 门禁\n- 保留现有 npm run dev 与部署路径不变\n\n## 验证\n\n- 触发一次构建或流水线，确认 lint、typecheck、test 均被执行\n- 制造一个失败用例，确认交付被拦截",
+      "dimensionRefs": [
+        "reliable-delivery"
+      ]
+    },
+    {
+      "id": "test-scope-includes-vendored-subproject",
+      "title": "测试范围混入 vendored 子项目，稀释主应用绿灯信号",
+      "severity": "Medium",
+      "reason": "事实：vitest.config.ts 未配置 include/exclude，npm run test:run 把 douban-book-api/test 的 133 个测试与主应用测试一并运行（总 257 中 133 来自该子项目）；而 ESLint 已 ignore douban-book-api/**，lint 与 test 的边界不一致。推断：主应用的快速反馈信号被上游子项目测试稀释，子项目失败会污染主应用绿灯判断，affected-check 路由不清晰。归属：vitest.config.ts。不确定性：可能是有意合并跑，但与 ESLint 忽略策略矛盾，倾向配置疏漏。",
+      "expectedOutput": [
+        "主应用测试运行仅覆盖 src 范围，测试计数不再包含 vendored 子项目用例。"
+      ],
+      "expectedArtifact": "测试配置",
+      "aiFixPrompt": "/better-harness 修复此问题\n\n收敛 vitest 作用域，使主应用测试信号不被 vendored 子项目 douban-book-api 稀释，并与 ESLint 已忽略该子目录的策略保持一致。\n\n## 步骤\n\n- 在 vitest.config.ts 增加 test.include/exclude，将范围限定到 src 目录\n\n## 验证\n\n- 运行 npm run test:run，确认仅运行主应用测试且计数不再包含子项目用例",
+      "dimensionRefs": [
+        "change-validation"
+      ]
+    },
+    {
+      "id": "external-data-routes-unchecked-observability",
+      "title": "外部取数路由缺少聚焦测试与可关联可观测性",
+      "severity": "Medium",
+      "reason": "事实：src/app/api/v1/books 下的封面代理/取详情等外部取数路由未见对应测试；src 内错误处理仅有约 22 处 console.*，无结构化日志或关联标识，部署文档指明生产端唯一排障入口是 Vercel Function 日志。会话侧存在一条相关线索（用户追问“为什么有的书的封面不能加载”），但该会话闭合状态未观察，仅作导航线索。推断：这些外部依赖失败在生产中难以复现、关联与验证。归属：src/app/api/v1/books 下取数/代理 handler。不确定性：未验证生产运行时日志实际内容，仅据源码与部署文档推断。",
+      "expectedOutput": [
+        "外部取数路由具备覆盖成功、降级与失败路径的测试，错误分支输出可关联到具体请求。"
+      ],
+      "expectedArtifact": "路由测试与错误日志",
+      "aiFixPrompt": "/better-harness 修复此问题\n\n为外部取数 API 路由（如 books 下的封面代理）补充聚焦测试与可关联的错误可观测性，使封面加载等外部依赖失败可被复现与诊断。\n\n## 步骤\n\n- 为 src/app/api/v1/books 下的取数/代理路由补充成功、降级与失败路径的测试\n- 在这些 handler 的错误分支加入统一、可关联的日志字段\n\n## 验证\n\n- 运行 npm run test:run，确认新增路由测试覆盖失败/降级路径\n- 制造一次上游取数失败，确认日志可定位到具体请求",
+      "dimensionRefs": [
+        "change-validation"
+      ]
+    },
+    {
+      "id": "always-on-constraints-only-in-memory",
+      "title": "恒定约束仅存于按需检索的 Memory，缺少始终加载的承接",
+      "severity": "Low",
+      "reason": "事实：项目 Rules 与 AGENTS.md 均为 0，而 Memory 标题显示存在应始终生效的约束（如封面代理域名白名单安全规则、禁用 mock 图书数据策略）。推断：这类必须恒定生效的约束若仅以需检索的 Memory 承载，可能无法在每个任务中稳定触达。归属：仓库根（新建 AGENTS.md 或项目级 Rules）。不确定性：仅凭 Memory 标题推断约束性质，未读正文，也无使用证据证明其是否已被稳定应用；本条为路由改进而非 Memory 合并/删除。",
+      "expectedOutput": [
+        "少量恒定约束落到始终加载的 AGENTS.md 或项目级 Rules，并指向对应 Memory 细节。"
+      ],
+      "expectedArtifact": "AGENTS.md",
+      "aiFixPrompt": "/better-harness 修复此问题\n\n将少数必须始终生效的项目约束（如封面代理域名白名单、禁用 mock 图书数据策略）落到始终加载的 AGENTS.md 或项目级 Rules，避免仅依赖按需检索的 Memory 而在部分任务中未被触达；细节仍保留在 Memory，不直接改写 Memory 文件。\n\n## 步骤\n\n- 在仓库根创建 AGENTS.md（或项目级 Rules），列出少量恒定约束并指向对应 Memory 细节\n\n## 验证\n\n- 确认 AGENTS.md 存在且约束条目与现有安全/数据策略一致\n- 在新会话中确认这些约束被作为始终生效的上下文加载",
+      "dimensionRefs": [
+        "learning-capture"
+      ]
+    }
+  ]
+}

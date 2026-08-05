@@ -1,0 +1,55 @@
+{
+  "name": "growthverse",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit --pretty false",
+    "check": "npm run lint && npm run typecheck && npm run test:run && npm run build",
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "dependencies": {
+    "@ai-sdk/anthropic": "^4.0.25",
+    "@ai-sdk/google": "^4.0.29",
+    "@ai-sdk/openai": "^4.0.24",
+    "@ai-sdk/react": "^4.0.45",
+    "@supabase/ssr": "^0.12.4",
+    "@supabase/supabase-js": "^2.110.9",
+    "ai": "^7.0.42",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.43.0",
+    "html2canvas": "^1.4.1",
+    "lucide-react": "^1.27.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^3.10.1",
+    "tailwind-merge": "^3.6.0",
+    "zod": "^4.4.3",
+    "zustand": "^5.0.14"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.0.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^7.0.0",
+    "@testing-library/react": "^16.3.2",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^6.0.4",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.1.0",
+    "jsdom": "^30.0.1",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.0",
+    "vitest": "^4.1.10"
+  }
+}

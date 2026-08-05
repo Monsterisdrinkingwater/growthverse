@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Open book base -->
+  <path d="M40 140 C40 140 60 130 100 130 C140 130 160 140 160 140 L160 70 C160 70 140 60 100 60 C60 60 40 70 40 70 Z" fill="#FAF5EE" stroke="#2D2926" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Book spine -->
+  <line x1="100" y1="60" x2="100" y2="130" stroke="#2D2926" stroke-width="2.5"/>
+  <!-- Left page lines -->
+  <line x1="55" y1="80" x2="90" y2="78" stroke="#C4654A" stroke-width="1.5" opacity="0.5"/>
+  <line x1="55" y1="90" x2="90" y2="88" stroke="#C4654A" stroke-width="1.5" opacity="0.4"/>
+  <line x1="55" y1="100" x2="85" y2="98" stroke="#C4654A" stroke-width="1.5" opacity="0.3"/>
+  <!-- Right page lines -->
+  <line x1="110" y1="78" x2="145" y2="80" stroke="#7A9E7E" stroke-width="1.5" opacity="0.5"/>
+  <line x1="110" y1="88" x2="145" y2="90" stroke="#7A9E7E" stroke-width="1.5" opacity="0.4"/>
+  <line x1="110" y1="98" x2="140" y2="100" stroke="#7A9E7E" stroke-width="1.5" opacity="0.3"/>
+  <!-- Orbital rings (universe/knowledge network) -->
+  <ellipse cx="100" cy="55" rx="50" ry="18" stroke="#C4654A" stroke-width="2" opacity="0.7" stroke-dasharray="4 3"/>
+  <ellipse cx="100" cy="55" rx="70" ry="28" stroke="#C4654A" stroke-width="1.5" opacity="0.4" stroke-dasharray="3 4"/>
+  <ellipse cx="100" cy="55" rx="88" ry="38" stroke="#D4A574" stroke-width="1" opacity="0.25" stroke-dasharray="2 5"/>
+  <!-- Stars/nodes on orbits -->
+  <circle cx="52" cy="48" r="3.5" fill="#C4654A"/>
+  <circle cx="148" cy="50" r="3" fill="#7A9E7E"/>
+  <circle cx="100" cy="27" r="4" fill="#C4654A" opacity="0.8"/>
+  <circle cx="32" cy="58" r="2.5" fill="#D4A574"/>
+  <circle cx="170" cy="56" r="2.5" fill="#D4A574" opacity="0.6"/>
+  <circle cx="75" cy="32" r="2" fill="#7A9E7E" opacity="0.7"/>
+  <circle cx="130" cy="34" r="2" fill="#C4654A" opacity="0.6"/>
+  <!-- Connecting path lines (knowledge paths) -->
+  <path d="M52 48 Q70 38 75 32" stroke="#C4654A" stroke-width="1" opacity="0.3"/>
+  <path d="M130 34 Q140 42 148 50" stroke="#7A9E7E" stroke-width="1" opacity="0.3"/>
+</svg>
