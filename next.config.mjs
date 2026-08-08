@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // 输出 standalone 模式：Docker 部署（ModelScope Studio）需要，
+  // Vercel 部署会自动忽略该产物使用自己的构建管线
+  output: 'standalone',
   // Keep file tracing scoped to this app when a parent directory also has a
   // package lockfile. Without this, Next.js can treat the user's home folder
   // as the workspace root and include unrelated files in production tracing.
