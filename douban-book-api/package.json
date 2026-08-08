@@ -23,7 +23,7 @@
     "koa-bodyparser": "^4.3.0",
     "koa-logger": "^3.2.1",
     "sequelize": "^6.19.1",
-    "sqlite3": "^5.0.8"
+    "sqlite3": "^6.0.1"
   },
   "devDependencies": {
     "adm-zip": "^0.5.9",
