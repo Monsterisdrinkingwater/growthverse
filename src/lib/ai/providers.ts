@@ -6,6 +6,7 @@
  * - Anthropic (Claude Opus 4.5 / Sonnet 4.5)
  * - Google (Gemini 2.5 Pro / Flash)
  * - 通义千问 Qwen (OpenAI 兼容接口)
+ * - 魔搭社区 ModelScope (OpenAI 兼容接口)
  * - DeepSeek (OpenAI 兼容接口)
  * - 智谱 GLM (OpenAI 兼容接口)
  */
@@ -53,6 +54,12 @@ export const AI_PROVIDERS: Record<string, AIProviderInfo> = {
     description: "阿里大模型，中文理解优秀",
     models: ["qwen3-max", "qwen-plus", "qwen-turbo"],
   },
+  modelscope: {
+    name: "魔搭社区",
+    icon: "🪄",
+    description: "ModelScope 开源模型，OpenAI 兼容接口",
+    models: ["Qwen/Qwen3-235B-A22B-Instruct-2507"],
+  },
   deepseek: {
     name: "DeepSeek",
     icon: "🔍",
@@ -79,6 +86,7 @@ let _anthropic: AnthropicProvider | null = null;
 let _google: GoogleProvider | null = null;
 // 国内模型复用 OpenAI 兼容接口
 let _qwen: OpenAIProvider | null = null;
+let _modelscope: OpenAIProvider | null = null;
 let _deepseek: OpenAIProvider | null = null;
 let _zhipu: OpenAIProvider | null = null;
 
@@ -111,6 +119,16 @@ function getQwen() {
     });
   }
   return _qwen;
+}
+
+function getModelScope() {
+  if (!_modelscope) {
+    _modelscope = createOpenAI({
+      apiKey: process.env.MODELSCOPE_API_KEY,
+      baseURL: "https://api-inference.modelscope.cn/v1",
+    });
+  }
+  return _modelscope;
 }
 
 function getDeepSeek() {
@@ -146,17 +164,22 @@ function createProviderWithKey(provider: string, apiKey: string) {
       return createOpenAI({
         apiKey,
         baseURL: "https://dashscope.aliyuncs.com/compatible-mode/v1",
-      });
+        });
+    case "modelscope":
+      return createOpenAI({
+        apiKey,
+        baseURL: "https://api-inference.modelscope.cn/v1",
+        });
     case "deepseek":
       return createOpenAI({
         apiKey,
         baseURL: "https://api.deepseek.com/v1",
-      });
+        });
     case "zhipu":
       return createOpenAI({
         apiKey,
         baseURL: "https://open.bigmodel.cn/api/paas/v4",
-      });
+        });
     default:
       throw new Error(`不支持的 AI 提供商: ${provider}`);
   }
@@ -175,7 +198,17 @@ export function getAI(
 ): LanguageModel {
   const trimmedKey = apiKey?.trim();
   if (trimmedKey) {
-    return createProviderWithKey(provider, trimmedKey)(model);
+    const providerWithKey = createProviderWithKey(provider, trimmedKey);
+    // OpenAI 兼容提供商（qwen/modelscope/deepseek/zhipu）使用 Chat Completions 端点
+    if (
+      provider === "qwen" ||
+      provider === "modelscope" ||
+      provider === "deepseek" ||
+      provider === "zhipu"
+    ) {
+      return (providerWithKey as OpenAIProvider).chat(model);
+    }
+    return providerWithKey(model);
   }
   switch (provider) {
     case "openai":
@@ -185,11 +218,13 @@ export function getAI(
     case "google":
       return getGoogle()(model);
     case "qwen":
-      return getQwen()(model);
+      return getQwen().chat(model);
+    case "modelscope":
+      return getModelScope().chat(model);
     case "deepseek":
-      return getDeepSeek()(model);
+      return getDeepSeek().chat(model);
     case "zhipu":
-      return getZhipu()(model);
+      return getZhipu().chat(model);
     default:
       throw new Error(`不支持的 AI 提供商: ${provider}`);
   }
@@ -208,6 +243,8 @@ export function getProviderEnvKey(provider: string): string | undefined {
       return process.env.GOOGLE_API_KEY?.trim() || undefined;
     case "qwen":
       return process.env.QWEN_API_KEY?.trim() || undefined;
+    case "modelscope":
+      return process.env.MODELSCOPE_API_KEY?.trim() || undefined;
     case "deepseek":
       return process.env.DEEPSEEK_API_KEY?.trim() || undefined;
     case "zhipu":
@@ -248,4 +285,65 @@ export function getDefaultAvailableProvider(): {
     }
   }
   return null;
+}
+
+/**
+ * 获取服务端默认 AI 配置。
+ *
+ * AI_PROVIDER / AI_MODEL 可在 Vercel 环境变量中显式指定；未指定时，
+ * 自动选择第一个已配置 Key 的提供商。API Key 永远只在服务端读取。
+ */
+export function getServerDefaultAIConfig(): {
+  provider: string;
+  model: string;
+} {
+  const requestedProvider = process.env.AI_PROVIDER?.trim().toLowerCase();
+  if (requestedProvider && requestedProvider in AI_PROVIDERS && isProviderConfigured(requestedProvider)) {
+    return {
+      provider: requestedProvider,
+      model:
+        process.env.AI_MODEL?.trim() || AI_PROVIDERS[requestedProvider].models[0],
+    };
+  }
+
+  const available = getDefaultAvailableProvider();
+  return available ?? { provider: DEFAULT_PROVIDER, model: DEFAULT_MODEL };
+}
+
+export interface ResolvedAIConfig {
+  provider: string;
+  model: string;
+  apiKey?: string;
+  configured: boolean;
+}
+
+/**
+ * 将客户端选择解析为最终 AI 配置。
+ * 没有客户端 Key 且所选提供商未配置时，自动回退到服务端默认提供商。
+ * 这能兼容已经保存在浏览器里的旧版 openai 设置。
+ */
+export function resolveAIConfig(
+  requestedProvider?: string,
+  requestedModel?: string,
+  clientApiKey?: string
+): ResolvedAIConfig {
+  const clientKey = clientApiKey?.trim() || undefined;
+  const provider = requestedProvider?.trim().toLowerCase();
+
+  if (provider && provider in AI_PROVIDERS && (clientKey || isProviderConfigured(provider))) {
+    return {
+      provider,
+      model:
+        requestedModel?.trim() || AI_PROVIDERS[provider].models[0] || DEFAULT_MODEL,
+      apiKey: clientKey,
+      configured: true,
+    };
+  }
+
+  const fallback = getServerDefaultAIConfig();
+  return {
+    provider: fallback.provider,
+    model: fallback.model,
+    configured: isProviderConfigured(fallback.provider),
+  };
 }
