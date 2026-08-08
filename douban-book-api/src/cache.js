@@ -21,13 +21,18 @@ try {
 // #region init cache db
 let IS_DB_INITIALIZED = false;
 
-const sequelize = new Sequelize({
-  dialect: 'sqlite',
-  storage: CACHE_DB_PATH,
-  // logging: console.log
-});
+let sequelize = null;
+try {
+  sequelize = new Sequelize({
+    dialect: 'sqlite',
+    storage: CACHE_DB_PATH,
+    // logging: console.log
+  });
+} catch (err) {
+  console.warn('[cache] sqlite3 模块不可用，进入无缓存模式:', err.message || err);
+}
 
-const SearchResult = sequelize.define('search_result', {
+const SearchResult = sequelize && sequelize.define('search_result', {
   text: {
     type: DataTypes.STRING,
     allowNull: false,
@@ -39,7 +44,7 @@ const SearchResult = sequelize.define('search_result', {
   tableName: 'search_results',
 });
 
-const Book = sequelize.define('book', {
+const Book = sequelize && sequelize.define('book', {
   douban_id: {
     type: DataTypes.STRING,
     allowNull: false,
@@ -53,7 +58,7 @@ const Book = sequelize.define('book', {
   tableName: 'books',
 });
 
-const Isbn = sequelize.define('isbn', {
+const Isbn = sequelize && sequelize.define('isbn', {
   isbn: {
     type: DataTypes.STRING,
     allowNull: false,
