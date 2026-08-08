@@ -4,7 +4,7 @@
   "devCommand": "next dev",
   "installCommand": "npm install",
   "regions": [
-    "hkg1"
+    "sin1"
   ],
   "headers": [
     {
