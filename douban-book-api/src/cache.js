@@ -2,7 +2,12 @@ const path = require('path');
 const { Sequelize, DataTypes } = require('sequelize');
 
 // #region 初始化数据库文件夹
-const CACHE_DIR = process.env.CACHE_DIR || path.join(__dirname, '../.cache');
+// Vercel 函数的部署目录只读，缓存只能写入临时目录；本地开发继续使用项目内缓存。
+const CACHE_DIR = process.env.CACHE_DIR || (
+  process.env.VERCEL
+    ? path.join('/tmp', 'douban-book-api-cache')
+    : path.join(__dirname, '../.cache')
+);
 const CACHE_DB_PATH = require('path').join(CACHE_DIR, 'books.sqlite');
 console.log(CACHE_DIR);
 try {
@@ -68,11 +73,17 @@ const Isbn = sequelize.define('isbn', {
 
 
 (async () => {
-  await sequelize.authenticate();
-  await sequelize.sync({ alter: true });
+  try {
+    await sequelize.authenticate();
+    await sequelize.sync({ alter: true });
 
-  IS_DB_INITIALIZED = true;
-  console.log('cache db initialized.');
+    IS_DB_INITIALIZED = true;
+    console.log('cache db initialized.');
+  } catch (err) {
+    // 无缓存模式：DB 不可用时（如 Vercel 无法安装 sqlite3 原生模块），
+    // 服务照常运行，只是不缓存。所有缓存函数通过 IS_DB_INITIALIZED 短路返回 null。
+    console.warn('[cache] sqlite3 不可用，进入无缓存模式:', err.message || err);
+  }
 })();
 // #endregion
 
